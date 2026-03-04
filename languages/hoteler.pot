@@ -1,0 +1,6307 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-12-26 19:17+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:19 comments.php:72
+msgid "Close"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:46
+msgid "Join the discussion and tell us your opinion."
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:88
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:89
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: comments.php:92
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:93
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:97
+msgid "Comment"
+msgstr ""
+
+#: comments.php:97
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:103 comments.php:105 woocommerce/single-product-reviews.php:90
+msgid "Name"
+msgstr ""
+
+#: comments.php:109 comments.php:111 woocommerce/single-product-reviews.php:97
+msgid "Email"
+msgstr ""
+
+#: comments.php:116 comments.php:117
+msgid "Website"
+msgstr ""
+
+#: functions.php:135 mascot-framework/core/blocks/page/page-metabox.php:363
+msgid "Primary Navigation Menu"
+msgstr ""
+
+#: functions.php:136
+msgid "Page 404 Helpful Links"
+msgstr ""
+
+#: functions.php:439
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: searchform.php:9
+#: mascot-framework/core/blocks/search/tpl/search-page-parts.php:15
+msgid "Search &hellip;"
+msgstr ""
+
+#: admin/admin-tpl/mascot-about.php:17
+msgid "Thank you for choosing"
+msgstr ""
+
+#: admin/admin-tpl/mascot-about.php:21
+#, php-format
+msgid "For proper theme functioning, the %s plugin is required!"
+msgstr ""
+
+#: admin/admin-tpl/mascot-about.php:27
+#, php-format
+msgid "Installation Instructions for %s plugin:"
+msgstr ""
+
+#: admin/admin-tpl/mascot-about.php:30
+#, php-format
+msgid ""
+"1. From your WordPress dashboard visit Appearance > Install Plugins or you "
+"can %1$s click here %2$s"
+msgstr ""
+
+#: admin/admin-tpl/mascot-about.php:31
+#, php-format
+msgid "2. Search for %s plugin and install it."
+msgstr ""
+
+#: admin/admin-tpl/mascot-about.php:33
+msgid "3. Now activate it."
+msgstr ""
+
+#: admin/admin-tpl/mascot-about.php:34
+msgid ""
+"4. Once the plugin is activated you will find full features of the theme "
+"including Custom Post Types, Theme Options, Post Meta etc."
+msgstr ""
+
+#: admin/admin-tpl/mascot-docs.php:15
+msgid "Documentation"
+msgstr ""
+
+#: admin/admin-tpl/mascot-docs.php:17
+msgid "Goto the following link to get documentation on this theme."
+msgstr ""
+
+#: admin/admin-tpl/mascot-docs.php:18
+msgid "Online Documentation"
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:15
+msgid "Mascot Core Plugins"
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:19
+#, php-format
+msgid "For proper theme functioning, the %s plugins are required."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:22
+msgid "Installation Instructions:"
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:25
+msgid "1. From your WordPress dashboard, visit Appearance > Install Plugins."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:27
+#, php-format
+msgid "2. Search for %s plugins and install them."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:29
+msgid "3. Now activate them."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:31
+#, php-format
+msgid ""
+"4. Once the plugins are activated you will find full features of the theme "
+"including Custom Post Types, Theme Options, Post Meta etc. For proper theme "
+"functioning, the  %s plugin is required."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:39
+msgid "One Click Demo Import"
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:43
+msgid ""
+"Import your demo content, widgets and theme settings with one click. It's as "
+"simple as clicking one button! To import demo data, make sure that 'One "
+"Click Demo Import' plugin is installed and active."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:47
+msgid "Installation Process 1:"
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:49
+msgid "1. From your WordPress dashboard visit Appearance > Install Plugins."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:51 admin/admin-tpl/mascot-faq.php:59
+msgid "2. Search for 'One Click Demo Import' and install/activate the plugin."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:55
+msgid "Installation Process 2:"
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:57
+msgid "1. From your WordPress dashboard visit 'Plugins > Add New'."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:63
+msgid "Demo Import Instructions:"
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:65
+msgid ""
+"1. Once the plugin is activated you will find the actual import page in: "
+"Appearance -> Import Demo Data."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:67 admin/admin-tpl/mascot-faq.php:85
+#, php-format
+msgid "See the %1$sScreenshots Tab%2$s for more details."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:75
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:79
+msgid ""
+"Regenerate Thumbnails allows you to regenerate the thumbnails for your image "
+"attachments. This is very handy if you've changed any of your thumbnail "
+"dimensions (via Settings -> Media) after previously uploading images or have "
+"changed to a theme with different featured post image dimensions."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:82
+msgid ""
+"You can either regenerate the thumbnails for all image uploads, individual "
+"image uploads, or specific multiple image uploads."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:88
+msgid "Installation and Usage Method:"
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:90
+msgid "1. Go to your admin area and select Plugins -> Add new from the menu."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:92
+msgid "2. Search for Regenerate Thumbnails."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:94
+msgid "3. Click install."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:96
+msgid "4. Click activate."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:98
+msgid "5. Go to Tools > Regen. Thumbnails"
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:100
+msgid ""
+"6. Click \"Regenerate All Thumbnails\" button and let the process to finish "
+"till it reaches 100 percent."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:109
+msgid "Flush Rewrite Rules"
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:113
+msgid ""
+"Remove rewrite rules and then recreate rewrite rules. This method can be "
+"used to refresh WordPress rewrite rule cache. Generally, this should be used "
+"after programmatically adding one or more custom rewrite rules."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:117
+msgid "When it is necessary?"
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:119
+msgid "-> Usually needs to flush rewrite rules for new custom post types."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:121
+msgid ""
+"-> You should only flush rules on activation or deactivation of a plugin or "
+"theme."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:123
+msgid ""
+"-> If you get 404 Page not found error on some pages/posts that already "
+"exist."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:127
+msgid "To flush WordPress rewrite rules or permalinks from the Dashboard:"
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:129
+#, php-format
+msgid "In the main menu find %1$sSettings > Permalinks%2$s"
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:131
+msgid "2: Scroll down if needed and click Save Changes."
+msgstr ""
+
+#: admin/admin-tpl/mascot-faq.php:133
+msgid "3: Rewrite rules and permalinks are flushed."
+msgstr ""
+
+#: admin/admin-tpl/mascot-header.php:10
+msgid "Welcome to"
+msgstr ""
+
+#: admin/admin-tpl/mascot-header.php:12
+msgid ""
+"Theme is installed successfully and you are ready to go live! Please install "
+"premium & required plugins and import demo content to build your awesome "
+"website! Also please activate this product and get latest updates. Happy "
+"Developing!"
+msgstr ""
+
+#: admin/admin-tpl/mascot-header.php:14
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: admin/admin-tpl/mascot-tabs.php:10
+msgid "About"
+msgstr ""
+
+#: admin/admin-tpl/mascot-tabs.php:11
+#: mascot-framework/core/core-actions.php:241
+#: mascot-framework/core/core-actions.php:242
+msgid "Support & Help"
+msgstr ""
+
+#: admin/admin-tpl/mascot-tabs.php:12
+#: mascot-framework/core/core-actions.php:249
+#: mascot-framework/core/core-actions.php:250
+msgid "FAQ"
+msgstr ""
+
+#: admin/admin-tpl/mascot-tabs.php:13
+#: mascot-framework/core/core-actions.php:257
+#: mascot-framework/core/core-actions.php:258
+#: mascot-framework/core/core-actions.php:266
+#: mascot-framework/core/core-actions.php:267
+msgid "System Status"
+msgstr ""
+
+#: mascot-framework/core/core-actions.php:212
+#, php-format
+msgid "For proper theme functioning, the %s plugins are required"
+msgstr ""
+
+#: mascot-framework/core/core-actions.php:215
+msgid "install"
+msgstr ""
+
+#: mascot-framework/core/core-actions.php:216
+msgid " and activate the plugins."
+msgstr ""
+
+#: mascot-framework/core/core-functions.php:454
+#: mascot-framework/core/core-functions.php:474
+msgid "All"
+msgstr ""
+
+#: mascot-framework/core/core-functions.php:1091
+msgid "&laquo;"
+msgstr ""
+
+#: mascot-framework/core/core-functions.php:1092
+msgid "&raquo;"
+msgstr ""
+
+#: mascot-framework/core/core-functions.php:1717
+msgid "Type and Press Enter..."
+msgstr ""
+
+#: mascot-framework/core/core-utility-variables-functions.php:35
+#: mascot-framework/core/core-utility-variables-functions.php:54
+#: mascot-framework/core/blocks/page/page-metabox.php:891
+#: mascot-framework/core/blocks/page/page-metabox.php:1372
+#: mascot-framework/redux-framework/config.php:1956
+#: mascot-framework/redux-framework/config.php:2401
+#: mascot-framework/redux-framework/config.php:3757
+#: mascot-framework/redux-framework/config.php:6182
+#: mascot-framework/redux-framework/config.php:6196
+#: mascot-framework/redux-framework/config.php:6208
+#: mascot-framework/redux-framework/config.php:6225
+msgid "Default"
+msgstr ""
+
+#: mascot-framework/core/core-utility-variables-functions.php:55
+#: mascot-framework/core/core-utility-variables-functions.php:69
+#: mascot-framework/core/core-utility-variables-functions.php:83
+#: mascot-framework/core/blocks/page/page-metabox.php:79
+#: mascot-framework/core/blocks/page/page-metabox.php:142
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:52
+#: mascot-framework/redux-framework/config.php:3126
+#: mascot-framework/redux-framework/config.php:3275
+#: mascot-framework/redux-framework/config.php:3600
+#: mascot-framework/redux-framework/config.php:3787
+#: mascot-framework/redux-framework/config.php:3864
+#: mascot-framework/redux-framework/config.php:4197
+#: mascot-framework/redux-framework/config.php:4475
+#: mascot-framework/redux-framework/config.php:4648
+#: mascot-framework/redux-framework/config.php:5519
+msgid "Left"
+msgstr ""
+
+#: mascot-framework/core/core-utility-variables-functions.php:56
+#: mascot-framework/core/core-utility-variables-functions.php:70
+#: mascot-framework/core/core-utility-variables-functions.php:84
+#: mascot-framework/core/blocks/page/page-metabox.php:80
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:53
+#: mascot-framework/redux-framework/config.php:5520
+msgid "Center"
+msgstr ""
+
+#: mascot-framework/core/core-utility-variables-functions.php:57
+#: mascot-framework/core/core-utility-variables-functions.php:71
+#: mascot-framework/core/core-utility-variables-functions.php:85
+#: mascot-framework/core/blocks/page/page-metabox.php:81
+#: mascot-framework/core/blocks/page/page-metabox.php:143
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:54
+#: mascot-framework/redux-framework/config.php:3127
+#: mascot-framework/redux-framework/config.php:3276
+#: mascot-framework/redux-framework/config.php:3601
+#: mascot-framework/redux-framework/config.php:3788
+#: mascot-framework/redux-framework/config.php:3865
+#: mascot-framework/redux-framework/config.php:4198
+#: mascot-framework/redux-framework/config.php:4476
+#: mascot-framework/redux-framework/config.php:4649
+#: mascot-framework/redux-framework/config.php:5521
+msgid "Right"
+msgstr ""
+
+#: mascot-framework/core/core-utility-variables-functions.php:234
+msgid "Default Primary Menu"
+msgstr ""
+
+#: mascot-framework/core/core-utility-variables-functions.php:254
+#: mascot-framework/redux-framework/config.php:3048
+msgid "Blog"
+msgstr ""
+
+#: mascot-framework/core/core-utility-variables-functions.php:255
+#: mascot-framework/redux-framework/config.php:5804
+msgid "404"
+msgstr ""
+
+#: mascot-framework/core/core-utility-variables-functions.php:256
+#: mascot-framework/redux-framework/config.php:5812
+msgid "Oops! Page Not Found!"
+msgstr ""
+
+#: mascot-framework/core/core-utility-variables-functions.php:257
+#: mascot-framework/redux-framework/config.php:5878
+msgid ""
+"The page you are looking for does not exist. It might have been moved or "
+"deleted."
+msgstr ""
+
+#: mascot-framework/core/core-utility-variables-functions.php:258
+#: mascot-framework/redux-framework/config.php:5681
+msgid "Back to Home"
+msgstr ""
+
+#: mascot-framework/core/blocks/404/tpl/helpful-links.php:25
+#, php-format
+msgid ""
+"Please Create a Menu from %1$shere%2$s and set it's Display Location to "
+"%3$sPage 404 Helpful Links%4$s"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-functions.php:287
+msgid "By"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-functions.php:301
+#: mascot-framework/core/blocks/blog/blog-functions.php:327
+msgid ", "
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-functions.php:355
+msgid "No Comments"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-functions.php:357
+msgid " Comments"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-functions.php:359
+msgid "1 Comment"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-functions.php:363
+msgid "Comments off"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-functions.php:406
+msgid "Continue reading"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-functions.php:419
+#: mascot-framework/core/blocks/blog-single/blog-single-functions.php:474
+msgid "Read more"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-functions.php:542
+msgid "Blog Sidebar"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-functions.php:544
+msgid ""
+"This is a default sidebar for blog. Widgets in this area will be shown on "
+"sidebar of blog/single page. Drag and drop your widgets here."
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-functions.php:553
+msgid "Blog Secondary Sidebar"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-functions.php:555
+msgid ""
+"This is a Secondary sidebar for blog. Widgets in this area will be shown on "
+"another sidebar of blog/single page. Drag and drop your widgets here."
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:7
+msgid "Audio Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:28
+msgid "SoundCloud URL"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:29
+msgid "Example: https://soundcloud.com/wmnashville/hero-skillet"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:34
+msgid "MP3 Audio File URL"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:39
+msgid "OGA/OGG Audio File URL"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:49
+msgid "Gallery Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:70
+msgid "Gallery Images"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:72
+msgid "Uploaded images for the gallery will be grouped into a slider"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:86
+msgid "Link Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:107
+msgid "Link URL"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:111
+msgid "Link Target"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:115
+msgid "Open New Window"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:116
+msgid "Open Same Window"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:127
+msgid "Quote Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:148
+msgid "Quote"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:149
+msgid "Place your text for the quote"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:158
+msgid "Quote Author"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:159
+msgid "The person who place the quote"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:164
+msgid "Author Position"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:165
+msgid "The designation of the author"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:175
+msgid "Video Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:195
+#: mascot-framework/redux-framework/config.php:2542
+msgid "Video Type"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:199
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:45
+#: mascot-framework/redux-framework/config.php:2545
+msgid "Youtube"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:200
+msgid "Vimeo"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:201
+#: mascot-framework/redux-framework/config.php:2546
+msgid "Self Hosted Video"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:207
+msgid "Youtube Video URL"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:209
+msgid "Example: https://www.youtube.com/watch?v=DEME-d6foS8"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:214
+msgid "Vimeo Video URL"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:216
+msgid "Example: https://vimeo.com/217247717"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:221
+msgid "Video Image"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:233
+#: mascot-framework/redux-framework/config.php:2587
+msgid "MP4 Video URL"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:239
+#: mascot-framework/redux-framework/config.php:2603
+msgid "WEBM Video URL"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/blog-metabox.php:245
+#: mascot-framework/redux-framework/config.php:2619
+msgid "OGV Video URL"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/tpl/parts/post-link-pages.php:3
+msgid "Pages:"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/tpl/parts/post-link-pages.php:7
+#: mascot-framework/redux-framework/config.php:4148
+msgid "Page"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/tpl/parts/post-thumb-audio.php:18
+#: mascot-framework/core/blocks/blog-single/tpl/parts/post-thumb-audio.php:19
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/tpl/parts/post-thumb-video.php:48
+#: mascot-framework/core/blocks/blog-single/tpl/parts/post-thumb-video.php:50
+msgid "No video playback capabilities"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog/tpl/post-format/post-format-standard.php:4
+msgid "Sticky Post"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-functions.php:135
+msgid " "
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-functions.php:138
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-functions.php:142
+msgctxt "list item separator"
+msgid " "
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-functions.php:145
+#, php-format
+msgid "Tags %1$s"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-functions.php:459
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-functions.php:460
+msgid "Password:"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-functions.php:460
+#: woocommerce/single-product-reviews.php:82
+msgid "Submit"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:5
+msgid "Contact Info"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:9
+msgid "Mobile phone"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:14
+msgid "Work phone"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:19
+msgid "Address"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:26
+msgid "Social Networks"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:30
+msgid "Facebook"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:35
+msgid "Twitter"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:40
+msgid "Linkedin"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:50
+msgid "Google Plus"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:55
+msgid "Instagram"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:60
+msgid "Pinterest"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:65
+msgid "Tumblr"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:78
+msgid "Blog Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:87
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:114
+#: mascot-framework/redux-framework/config.php:3167
+#: mascot-framework/redux-framework/config.php:4566
+#: mascot-framework/redux-framework/config.php:5460
+msgid "Featured Image Size"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:115
+#: mascot-framework/core/blocks/page/page-metabox.php:230
+#: mascot-framework/core/blocks/page/page-metabox.php:423
+#: mascot-framework/core/blocks/page/page-metabox.php:580
+#: mascot-framework/core/blocks/page/page-metabox.php:621
+#: mascot-framework/core/blocks/page/page-metabox.php:660
+#: mascot-framework/core/blocks/page/page-metabox.php:777
+#: mascot-framework/core/blocks/page/page-metabox.php:1088
+#: mascot-framework/core/blocks/page/page-metabox.php:1267
+#: mascot-framework/core/blocks/page/page-metabox.php:1336
+#: mascot-framework/core/blocks/page/page-metabox.php:1403
+msgid "Changes of the following settings will be effective only for this page."
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/blog-single-metabox.php:119
+msgid "Featured Image Size in Masonry Tiles Mode"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/tpl/parts/post-author-info.php:8
+msgid "About Author:"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/tpl/parts/post-related-posts-carousel.php:4
+#: mascot-framework/core/blocks/blog-single/tpl/parts/post-related-posts.php:4
+#: mascot-framework/redux-framework/config.php:3439
+#: mascot-framework/redux-framework/config.php:5107
+msgid "Related Posts"
+msgstr ""
+
+#: mascot-framework/core/blocks/blog-single/tpl/parts/post-tags.php:2
+msgid "Tags:"
+msgstr ""
+
+#: mascot-framework/core/blocks/footer/footer-functions.php:99
+msgid "Footer Widget Area Column 1"
+msgstr ""
+
+#: mascot-framework/core/blocks/footer/footer-functions.php:101
+msgid ""
+"Widgets in this area will be shown on Footer Widget Area Column 1. Drag and "
+"drop your widgets here."
+msgstr ""
+
+#: mascot-framework/core/blocks/footer/footer-functions.php:110
+msgid "Footer Widget Area Column 2"
+msgstr ""
+
+#: mascot-framework/core/blocks/footer/footer-functions.php:112
+msgid ""
+"Widgets in this area will be shown on Footer Widget Area Column 2. Drag and "
+"drop your widgets here."
+msgstr ""
+
+#: mascot-framework/core/blocks/footer/footer-functions.php:121
+msgid "Footer Widget Area Column 3"
+msgstr ""
+
+#: mascot-framework/core/blocks/footer/footer-functions.php:123
+msgid ""
+"Widgets in this area will be shown on Footer Widget Area Column 3. Drag and "
+"drop your widgets here."
+msgstr ""
+
+#: mascot-framework/core/blocks/footer/footer-functions.php:132
+msgid "Footer Widget Area Column 4"
+msgstr ""
+
+#: mascot-framework/core/blocks/footer/footer-functions.php:134
+msgid ""
+"Widgets in this area will be shown on Footer Widget Area Column 4. Drag and "
+"drop your widgets here."
+msgstr ""
+
+#: mascot-framework/core/blocks/footer/footer-functions.php:165
+msgid "Split This Navigation Menu Into Two Columns"
+msgstr ""
+
+#: mascot-framework/core/blocks/header/header-functions.php:661
+msgid "Menu Full Page Nav Sidebar"
+msgstr ""
+
+#: mascot-framework/core/blocks/header/header-functions.php:663
+msgid ""
+"Widgets in this area will be shown on MenuFullPage Nav section. Drag and "
+"drop your widgets here."
+msgstr ""
+
+#: mascot-framework/core/blocks/header/header-functions.php:713
+#: mascot-framework/redux-framework/config.php:4022
+msgid "Side Push Panel Sidebar"
+msgstr ""
+
+#: mascot-framework/core/blocks/header/header-functions.php:715
+msgid ""
+"Widgets in this area will be shown on Side Push Panel section. Drag and drop "
+"your widgets here."
+msgstr ""
+
+#: mascot-framework/core/blocks/header/header-functions.php:821
+msgid "Vertical Nav Sidebar"
+msgstr ""
+
+#: mascot-framework/core/blocks/header/header-functions.php:823
+msgid ""
+"Widgets in this area will be shown on Vertical Nav section. Drag and drop "
+"your widgets here."
+msgstr ""
+
+#: mascot-framework/core/blocks/header/header-functions.php:978
+#: mascot-framework/core/blocks/header/tpl/content/nav-mini-cart-icon.php:4
+msgid "View your shopping cart"
+msgstr ""
+
+#: mascot-framework/core/blocks/header/header-functions.php:978
+#: mascot-framework/core/blocks/header/tpl/content/nav-mini-cart-icon.php:4
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/core/blocks/header/header-functions.php:978
+#: mascot-framework/core/blocks/header/tpl/content/nav-mini-cart-icon.php:4
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/core/blocks/header/tpl/content/header-top-side-push-panel.php:16
+#: mascot-framework/core/blocks/header/tpl/content/side-push-panel-sidebar-html-code.php:16
+msgid "This is your Side Push Panel Sidebar!"
+msgstr ""
+
+#: mascot-framework/core/blocks/header/tpl/content/header-top-side-push-panel.php:17
+#, php-format
+msgid ""
+"Please add your sidebar widgets to this section from %1$sAppearance > Widgets"
+"%2$s (Side Push Panel Sidebar)."
+msgstr ""
+
+#: mascot-framework/core/blocks/header/tpl/content/side-push-panel-sidebar-html-code.php:17
+#, php-format
+msgid ""
+"Step 1: Please add your content to this section from %1$sAdmin Dashboard > "
+"Parts - Side Push Panel %2$s (Side Push Panel Sidebar)."
+msgstr ""
+
+#: mascot-framework/core/blocks/header/tpl/content/side-push-panel-sidebar-html-code.php:18
+#, php-format
+msgid ""
+"Step 2: Goto %1$sTheme Options > Side Push Panel Sidebar%2$s and select it "
+"from the dropdown menu."
+msgstr ""
+
+#: mascot-framework/core/blocks/header/tpl/content/side-push-panel-sidebar-html-code.php:19
+msgid "It's done!"
+msgstr ""
+
+#: mascot-framework/core/blocks/header/tpl/header-type/header-vertical-nav.php:43
+msgid "This is your Vertical Nav Sidebar!"
+msgstr ""
+
+#: mascot-framework/core/blocks/header/tpl/header-type/header-vertical-nav.php:44
+#, php-format
+msgid ""
+"Please add your sidebar widgets to this section from %1$sAppearance > Widgets"
+"%2$s (Vertical Nav Sidebar)."
+msgstr ""
+
+#: mascot-framework/core/blocks/header/tpl/parts/header-logo.php:7
+#: mascot-framework/core/blocks/header/tpl/parts/header-logo.php:8
+msgid "Hoteler Logo"
+msgstr ""
+
+#: mascot-framework/core/blocks/header/tpl/parts/header-logo.php:10
+msgid "Hoteler Logo Light"
+msgstr ""
+
+#: mascot-framework/core/blocks/header/tpl/parts/header-logo.php:11
+msgid "Hoteler Logo Dark"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-functions.php:82
+#: mascot-framework/core/blocks/page/page-metabox.php:87
+msgid "Page Sidebar"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-functions.php:84
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:290
+msgid ""
+"This is a default sidebar for page. Widgets in this area will be shown on "
+"sidebar of page. Drag and drop your widgets here."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-functions.php:95
+msgid "Page Sidebar Two"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-functions.php:97
+msgid ""
+"This is a Secondary sidebar for page. Widgets in this area will be shown on "
+"another sidebar of page. Drag and drop your widgets here."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:14
+#: mascot-framework/core/blocks/page/page-metabox.php:78
+#: mascot-framework/core/blocks/page/page-metabox.php:141
+#: mascot-framework/core/blocks/page/page-metabox.php:238
+#: mascot-framework/core/blocks/page/page-metabox.php:357
+#: mascot-framework/core/blocks/page/page-metabox.php:381
+#: mascot-framework/core/blocks/page/page-metabox.php:407
+#: mascot-framework/core/blocks/page/page-metabox.php:430
+#: mascot-framework/core/blocks/page/page-metabox.php:443
+#: mascot-framework/core/blocks/page/page-metabox.php:462
+#: mascot-framework/core/blocks/page/page-metabox.php:473
+#: mascot-framework/core/blocks/page/page-metabox.php:483
+#: mascot-framework/core/blocks/page/page-metabox.php:521
+#: mascot-framework/core/blocks/page/page-metabox.php:534
+#: mascot-framework/core/blocks/page/page-metabox.php:547
+#: mascot-framework/core/blocks/page/page-metabox.php:679
+#: mascot-framework/core/blocks/page/page-metabox.php:711
+#: mascot-framework/core/blocks/page/page-metabox.php:784
+#: mascot-framework/core/blocks/page/page-metabox.php:854
+#: mascot-framework/core/blocks/page/page-metabox.php:864
+#: mascot-framework/core/blocks/page/page-metabox.php:880
+#: mascot-framework/core/blocks/page/page-metabox.php:890
+#: mascot-framework/core/blocks/page/page-metabox.php:904
+#: mascot-framework/core/blocks/page/page-metabox.php:914
+#: mascot-framework/core/blocks/page/page-metabox.php:931
+#: mascot-framework/core/blocks/page/page-metabox.php:968
+#: mascot-framework/core/blocks/page/page-metabox.php:994
+#: mascot-framework/core/blocks/page/page-metabox.php:1033
+#: mascot-framework/core/blocks/page/page-metabox.php:1052
+#: mascot-framework/core/blocks/page/page-metabox.php:1095
+#: mascot-framework/core/blocks/page/page-metabox.php:1112
+#: mascot-framework/core/blocks/page/page-metabox.php:1160
+#: mascot-framework/core/blocks/page/page-metabox.php:1174
+#: mascot-framework/core/blocks/page/page-metabox.php:1275
+#: mascot-framework/core/blocks/page/page-metabox.php:1307
+#: mascot-framework/core/blocks/page/page-metabox.php:1416
+msgid "Inherit from Theme Options"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:35
+#: mascot-framework/core/blocks/page/page-metabox.php:47
+msgid "Select a Slider"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:104
+#: mascot-framework/redux-framework/config.php:3084
+#: mascot-framework/redux-framework/config.php:3232
+#: mascot-framework/redux-framework/config.php:3609
+#: mascot-framework/redux-framework/config.php:3796
+#: mascot-framework/redux-framework/config.php:4605
+msgid "Sidebar Layout"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:119
+msgid "Pick Sidebar Default"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:126
+msgid "Sidebar 2 Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:127
+msgid "Sidebar 2 will only be used if \"Sidebar Both Side\" is selected."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:130
+msgid "Pick Sidebar 2"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:136
+msgid "Sidebar 2 Position"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:139
+msgid ""
+"Controls the position of sidebar 2. In that case, sidebar 1 will be shown on "
+"opposite side."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:153
+msgid "Page Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:164
+#: mascot-framework/core/blocks/page/page-metabox.php:229
+#: mascot-framework/redux-framework/config.php:1311
+#: mascot-framework/redux-framework/config.php:1320
+msgid "Header"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:168
+#: mascot-framework/core/blocks/page/page-metabox.php:579
+#: mascot-framework/redux-framework/config.php:321
+msgid "Theme Color Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:172
+msgid "Typography Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:176
+#: mascot-framework/core/blocks/page/page-metabox.php:672
+#: mascot-framework/redux-framework/config.php:176
+msgid "Logo"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:180
+#: mascot-framework/core/blocks/page/page-metabox.php:776
+#: mascot-framework/redux-framework/config.php:2259
+msgid "Page Title"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:184
+#: mascot-framework/core/blocks/page/page-metabox.php:1087
+#: mascot-framework/redux-framework/config.php:1172
+msgid "Layout Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:188
+#: mascot-framework/redux-framework/config.php:451
+msgid "Dark Mode"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:192
+#: mascot-framework/core/blocks/page/page-metabox.php:1266
+#: mascot-framework/redux-framework/config.php:2876
+msgid "Footer Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:196
+#: mascot-framework/core/blocks/page/page-metabox.php:1335
+msgid "Slider Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:200
+#: mascot-framework/core/blocks/page/page-metabox.php:1402
+msgid "General Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:233
+#: mascot-framework/redux-framework/config.php:1329
+msgid "Header Visibility"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:236
+msgid "Show or hide complete header only for this page."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:239
+#: mascot-framework/core/blocks/page/page-metabox.php:358
+#: mascot-framework/core/blocks/page/page-metabox.php:1276
+msgid "Show"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:240
+#: mascot-framework/core/blocks/page/page-metabox.php:359
+#: mascot-framework/core/blocks/page/page-metabox.php:1277
+msgid "Hide"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:249
+msgid "Header  (Built with Elementor)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:253
+msgid "Choose Header (Elementor)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:254
+#, php-format
+msgid "Made using Elementor. Create your own one from %s"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:265
+#: mascot-framework/core/blocks/page/page-metabox.php:287
+msgid "Select a Pre Made Header"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:275
+msgid "Or Choose Transparent Header (Elementor)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:276
+msgid "Made From Custom Post Type by using Elementor."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:297
+msgid "Choose Header Sticky (Elementor)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:298
+msgid ""
+"It will be shown when you scroll down. Made From Custom Post Type by using "
+"Elementor."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:309
+#: mascot-framework/core/blocks/page/page-metabox.php:331
+msgid "Select a Pre Made Sticky Header"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:319
+msgid "Choose Header Mobile/Tab (Elementor)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:320
+msgid ""
+"It will be visible on Tab & Mobile devices only. Made From Custom Post Type "
+"by using Elementor."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:349
+#: mascot-framework/redux-framework/config.php:1513
+msgid "Default Header Navigation Row"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:352
+msgid "Default Header Nav Row (Show/Hide)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:355
+msgid "Show or hide default header nav row only for this page."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:366
+#, php-format
+msgid ""
+"Select which menu you want to display as primary navigation on this page. "
+"Currently set to %1$s%2$s%3$s."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:370
+msgid "Enable One Page Nav Smooth Scrolling Effect"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:373
+msgid ""
+"Check this box in order to enable one page navigation smooth scrollling "
+"effect."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:376
+#: mascot-framework/redux-framework/config.php:1844
+msgid "Show Custom Button"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:379
+msgid "Enabling this option will show Custom Button."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:382
+#: mascot-framework/core/blocks/page/page-metabox.php:522
+#: mascot-framework/core/blocks/page/page-metabox.php:535
+#: mascot-framework/core/blocks/page/page-metabox.php:548
+#: mascot-framework/core/blocks/page/page-metabox.php:680
+#: mascot-framework/core/blocks/page/page-metabox.php:712
+#: mascot-framework/core/blocks/page/page-metabox.php:785
+#: mascot-framework/core/blocks/page/page-metabox.php:905
+#: mascot-framework/core/blocks/page/page-metabox.php:915
+#: mascot-framework/core/blocks/page/page-metabox.php:969
+#: mascot-framework/core/blocks/page/page-metabox.php:1161
+#: mascot-framework/core/blocks/page/page-metabox.php:1308
+#: mascot-framework/core/blocks/page/page-metabox.php:1417
+#: mascot-framework/redux-framework/config.php:196
+#: mascot-framework/redux-framework/config.php:206
+#: mascot-framework/redux-framework/config.php:1459
+#: mascot-framework/redux-framework/config.php:1467
+#: mascot-framework/redux-framework/config.php:1484
+#: mascot-framework/redux-framework/config.php:1492
+#: mascot-framework/redux-framework/config.php:1539
+#: mascot-framework/redux-framework/config.php:2247
+#: mascot-framework/redux-framework/config.php:2270
+#: mascot-framework/redux-framework/config.php:2299
+#: mascot-framework/redux-framework/config.php:2342
+#: mascot-framework/redux-framework/config.php:2482
+#: mascot-framework/redux-framework/config.php:2532
+#: mascot-framework/redux-framework/config.php:2897
+#: mascot-framework/redux-framework/config.php:3140
+#: mascot-framework/redux-framework/config.php:3161
+#: mascot-framework/redux-framework/config.php:3226
+#: mascot-framework/redux-framework/config.php:3290
+#: mascot-framework/redux-framework/config.php:3311
+#: mascot-framework/redux-framework/config.php:3345
+#: mascot-framework/redux-framework/config.php:3354
+#: mascot-framework/redux-framework/config.php:3372
+#: mascot-framework/redux-framework/config.php:3381
+#: mascot-framework/redux-framework/config.php:3405
+#: mascot-framework/redux-framework/config.php:3413
+#: mascot-framework/redux-framework/config.php:3422
+#: mascot-framework/redux-framework/config.php:3449
+#: mascot-framework/redux-framework/config.php:3458
+#: mascot-framework/redux-framework/config.php:3477
+#: mascot-framework/redux-framework/config.php:3515
+#: mascot-framework/redux-framework/config.php:3542
+#: mascot-framework/redux-framework/config.php:3590
+#: mascot-framework/redux-framework/config.php:3758
+#: mascot-framework/redux-framework/config.php:3777
+#: mascot-framework/redux-framework/config.php:3876
+#: mascot-framework/redux-framework/config.php:3886
+#: mascot-framework/redux-framework/config.php:3895
+#: mascot-framework/redux-framework/config.php:3907
+#: mascot-framework/redux-framework/config.php:3925
+#: mascot-framework/redux-framework/config.php:3934
+#: mascot-framework/redux-framework/config.php:4012
+#: mascot-framework/redux-framework/config.php:4073
+#: mascot-framework/redux-framework/config.php:4103
+#: mascot-framework/redux-framework/config.php:4216
+#: mascot-framework/redux-framework/config.php:4578
+#: mascot-framework/redux-framework/config.php:4599
+#: mascot-framework/redux-framework/config.php:4738
+#: mascot-framework/redux-framework/config.php:4793
+#: mascot-framework/redux-framework/config.php:4848
+#: mascot-framework/redux-framework/config.php:5068
+#: mascot-framework/redux-framework/config.php:5086
+#: mascot-framework/redux-framework/config.php:5095
+#: mascot-framework/redux-framework/config.php:5116
+#: mascot-framework/redux-framework/config.php:5125
+#: mascot-framework/redux-framework/config.php:5167
+#: mascot-framework/redux-framework/config.php:5644
+#: mascot-framework/redux-framework/config.php:5653
+#: mascot-framework/redux-framework/config.php:5672
+#: mascot-framework/redux-framework/config.php:5692
+#: mascot-framework/redux-framework/config.php:5714
+#: mascot-framework/redux-framework/config.php:5732
+#: mascot-framework/redux-framework/config.php:5944
+#: mascot-framework/redux-framework/config.php:6031
+#: mascot-framework/redux-framework/config.php:6144
+msgid "Yes"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:383
+#: mascot-framework/core/blocks/page/page-metabox.php:523
+#: mascot-framework/core/blocks/page/page-metabox.php:536
+#: mascot-framework/core/blocks/page/page-metabox.php:549
+#: mascot-framework/core/blocks/page/page-metabox.php:681
+#: mascot-framework/core/blocks/page/page-metabox.php:713
+#: mascot-framework/core/blocks/page/page-metabox.php:786
+#: mascot-framework/core/blocks/page/page-metabox.php:906
+#: mascot-framework/core/blocks/page/page-metabox.php:916
+#: mascot-framework/core/blocks/page/page-metabox.php:970
+#: mascot-framework/core/blocks/page/page-metabox.php:1162
+#: mascot-framework/core/blocks/page/page-metabox.php:1309
+#: mascot-framework/core/blocks/page/page-metabox.php:1418
+#: mascot-framework/redux-framework/config.php:197
+#: mascot-framework/redux-framework/config.php:207
+#: mascot-framework/redux-framework/config.php:1460
+#: mascot-framework/redux-framework/config.php:1468
+#: mascot-framework/redux-framework/config.php:1485
+#: mascot-framework/redux-framework/config.php:1493
+#: mascot-framework/redux-framework/config.php:1540
+#: mascot-framework/redux-framework/config.php:2248
+#: mascot-framework/redux-framework/config.php:2271
+#: mascot-framework/redux-framework/config.php:2300
+#: mascot-framework/redux-framework/config.php:2343
+#: mascot-framework/redux-framework/config.php:2483
+#: mascot-framework/redux-framework/config.php:2533
+#: mascot-framework/redux-framework/config.php:2898
+#: mascot-framework/redux-framework/config.php:3141
+#: mascot-framework/redux-framework/config.php:3162
+#: mascot-framework/redux-framework/config.php:3227
+#: mascot-framework/redux-framework/config.php:3291
+#: mascot-framework/redux-framework/config.php:3312
+#: mascot-framework/redux-framework/config.php:3346
+#: mascot-framework/redux-framework/config.php:3355
+#: mascot-framework/redux-framework/config.php:3373
+#: mascot-framework/redux-framework/config.php:3382
+#: mascot-framework/redux-framework/config.php:3406
+#: mascot-framework/redux-framework/config.php:3414
+#: mascot-framework/redux-framework/config.php:3423
+#: mascot-framework/redux-framework/config.php:3450
+#: mascot-framework/redux-framework/config.php:3459
+#: mascot-framework/redux-framework/config.php:3478
+#: mascot-framework/redux-framework/config.php:3516
+#: mascot-framework/redux-framework/config.php:3543
+#: mascot-framework/redux-framework/config.php:3591
+#: mascot-framework/redux-framework/config.php:3759
+#: mascot-framework/redux-framework/config.php:3778
+#: mascot-framework/redux-framework/config.php:3877
+#: mascot-framework/redux-framework/config.php:3887
+#: mascot-framework/redux-framework/config.php:3896
+#: mascot-framework/redux-framework/config.php:3908
+#: mascot-framework/redux-framework/config.php:3926
+#: mascot-framework/redux-framework/config.php:3935
+#: mascot-framework/redux-framework/config.php:4013
+#: mascot-framework/redux-framework/config.php:4074
+#: mascot-framework/redux-framework/config.php:4104
+#: mascot-framework/redux-framework/config.php:4217
+#: mascot-framework/redux-framework/config.php:4579
+#: mascot-framework/redux-framework/config.php:4600
+#: mascot-framework/redux-framework/config.php:4739
+#: mascot-framework/redux-framework/config.php:4794
+#: mascot-framework/redux-framework/config.php:4849
+#: mascot-framework/redux-framework/config.php:5069
+#: mascot-framework/redux-framework/config.php:5087
+#: mascot-framework/redux-framework/config.php:5096
+#: mascot-framework/redux-framework/config.php:5117
+#: mascot-framework/redux-framework/config.php:5126
+#: mascot-framework/redux-framework/config.php:5168
+#: mascot-framework/redux-framework/config.php:5645
+#: mascot-framework/redux-framework/config.php:5654
+#: mascot-framework/redux-framework/config.php:5673
+#: mascot-framework/redux-framework/config.php:5693
+#: mascot-framework/redux-framework/config.php:5715
+#: mascot-framework/redux-framework/config.php:5733
+#: mascot-framework/redux-framework/config.php:5945
+#: mascot-framework/redux-framework/config.php:6032
+#: mascot-framework/redux-framework/config.php:6145
+msgid "No"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:403
+msgid "Main Nav Items Text Color"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:408
+msgid "Text White"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:409
+msgid "Text Dark"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:422
+msgid "Header Layout"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:426
+msgid "Header Layout Type (Built in)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:431
+msgid "Header Current Theme Style 1"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:432
+msgid "Header Current Theme Style 2"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:434
+msgid "Side Push Panel Nav"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:435
+msgid "Vertical Nav"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:439
+msgid "Header Container"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:444
+#: mascot-framework/core/blocks/page/page-metabox.php:865
+#: mascot-framework/redux-framework/config.php:1613
+#: mascot-framework/redux-framework/config.php:2330
+msgid "Container"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:445
+#: mascot-framework/core/blocks/page/page-metabox.php:866
+#: mascot-framework/redux-framework/config.php:1614
+#: mascot-framework/redux-framework/config.php:2331
+msgid "Container Fluid"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:455
+msgid "Header Floating Options"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:458
+#: mascot-framework/redux-framework/config.php:1624
+msgid "Header Background Shadow (Header Floating)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:463
+#: mascot-framework/redux-framework/config.php:1626
+msgid "No Shadow"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:464
+#: mascot-framework/redux-framework/config.php:1627
+msgid "Dark Background Shadow"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:465
+#: mascot-framework/redux-framework/config.php:1628
+msgid "Light Background Shadow"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:469
+#: mascot-framework/redux-framework/config.php:1641
+msgid "Text Color (Header Floating)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:474
+#: mascot-framework/redux-framework/config.php:1643
+msgid "White Text"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:475
+#: mascot-framework/core/blocks/page/page-metabox.php:882
+#: mascot-framework/redux-framework/config.php:1644
+msgid "Dark Text"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:479
+#: mascot-framework/redux-framework/config.php:1656
+msgid "Background Color (on Header Floating + Sticky)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:484
+#: mascot-framework/redux-framework/config.php:1658
+msgid "White BG"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:485
+#: mascot-framework/redux-framework/config.php:1659
+msgid "Dark BG"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:493
+msgid "Header Layout - Vertical Nav"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:499
+#: mascot-framework/core/blocks/page/page-metabox.php:932
+#: mascot-framework/core/blocks/page/page-metabox.php:938
+#: mascot-framework/core/blocks/page/page-metabox.php:1182
+#: mascot-framework/redux-framework/config.php:5554
+msgid "Background Color"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:507
+#: mascot-framework/core/blocks/page/page-metabox.php:933
+#: mascot-framework/core/blocks/page/page-metabox.php:946
+#: mascot-framework/core/blocks/page/page-metabox.php:1202
+#: mascot-framework/redux-framework/config.php:1294
+msgid "Background Image"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:517
+msgid "Shadow"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:530
+msgid "Vertical Area Border"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:543
+#: mascot-framework/redux-framework/config.php:4070
+msgid "Center Content"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:583
+msgid "Change Primary Theme Color"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:586
+msgid ""
+"If you want to change primary theme color of this page then check this "
+"option."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:589
+msgid "Primary Theme Color"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:620
+#: mascot-framework/core/blocks/page/page-metabox.php:1026
+#: mascot-framework/redux-framework/config.php:469
+#: mascot-framework/redux-framework/config.php:2710
+#: mascot-framework/redux-framework/config.php:2928
+msgid "Typography"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:624
+msgid "Change Typography"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:627
+msgid "If you want to change typography of this page then check this option."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:630
+msgid "Choose Predefined Typography"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:659
+msgid "Logo Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:663
+msgid "Alternative Site Brand"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:665
+msgid "Enter the text that will be appeared as logo."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:675
+msgid "Use logo in replace of text?"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:685
+#: mascot-framework/core/blocks/page/page-metabox.php:718
+#: mascot-framework/redux-framework/config.php:215
+#: mascot-framework/redux-framework/config.php:239
+msgid "Logo (Default)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:693
+#: mascot-framework/redux-framework/config.php:263
+msgid "Logo for Mobile Version"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:703
+msgid "Switchable logo"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:707
+msgid "Switchable logo(Light/Dark)?"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:726
+#: mascot-framework/redux-framework/config.php:251
+msgid "Logo (Sticky Mode)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:737
+msgid "Logo height"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:741
+msgid "Maximum logo height(px)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:744
+msgid "Enter maximum logo height in px."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:745
+msgid "px"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:780
+#: mascot-framework/redux-framework/config.php:2267
+msgid "Enable Page Title"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:791
+#: mascot-framework/redux-framework/config.php:2276
+msgid "Choose Page Title (Built with Elementor)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:794
+#: mascot-framework/core/blocks/page/page-metabox.php:1284
+#, php-format
+msgid "Create your own one from %s"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:803
+msgid "Select a Page Title"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:816
+msgid "Title & Subtitle"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:819
+msgid "Page Title Type"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:823
+msgid "Show This Page Title"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:824
+msgid "Enter Custom Title"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:828
+msgid "Custom Title Text"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:830
+msgid "Enter the text that will be appeared as page title."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:837
+msgid "Subtitle Text"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:839
+msgid "Enter the text that will be appeared as subtitle."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:847
+msgid "Page Title Layout"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:850
+#: mascot-framework/redux-framework/config.php:2306
+msgid "Choose Page Title Layout"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:855
+msgid "Standard"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:856
+msgid "Split"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:860
+msgid "Page Title Container"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:870
+msgid "Page Title Text Alignment"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:876
+#: mascot-framework/redux-framework/config.php:2414
+msgid "Default Text Color"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:881
+msgid "Light Text"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:886
+msgid "Page Title Height"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:892
+#: mascot-framework/redux-framework/config.php:2402
+#: mascot-framework/redux-framework/config.php:6209
+msgid "Extra Small"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:893
+#: mascot-framework/redux-framework/config.php:2403
+#: mascot-framework/redux-framework/config.php:6210
+msgid "Small"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:894
+#: mascot-framework/redux-framework/config.php:2404
+#: mascot-framework/redux-framework/config.php:6211
+msgid "Medium"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:895
+#: mascot-framework/redux-framework/config.php:2405
+#: mascot-framework/redux-framework/config.php:6212
+msgid "Large"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:896
+#: mascot-framework/redux-framework/config.php:2406
+#: mascot-framework/redux-framework/config.php:6213
+msgid "Extra Large"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:900
+#: mascot-framework/redux-framework/config.php:2372
+msgid "Show Title"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:910
+#: mascot-framework/redux-framework/config.php:2388
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:924
+#: mascot-framework/redux-framework/config.php:2455
+#: mascot-framework/redux-framework/config.php:2464
+msgid "Page Title Background"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:927
+msgid "Page Title Background Type"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:934
+msgid "Background Video"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:961
+#: mascot-framework/redux-framework/config.php:4100
+msgid "Background Overlay"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:964
+msgid "Add Page Title Background Overlay?"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:974
+msgid "Overlay Opacity"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:977
+#: mascot-framework/redux-framework/config.php:2492
+msgid "Overlay on background image on Page Title."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:990
+msgid "Overlay Color"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:995
+#: mascot-framework/redux-framework/config.php:2512
+#: mascot-framework/redux-framework/config.php:4129
+#: mascot-framework/redux-framework/config.php:5762
+#: mascot-framework/redux-framework/config.php:6180
+msgid "Dark"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:996
+#: mascot-framework/redux-framework/config.php:2513
+#: mascot-framework/redux-framework/config.php:4130
+#: mascot-framework/redux-framework/config.php:5763
+#: mascot-framework/redux-framework/config.php:6181
+msgid "White"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1008
+#: mascot-framework/redux-framework/config.php:2649
+msgid "Animation Effect"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1011
+#: mascot-framework/redux-framework/config.php:2658
+msgid "Title Animation Effect"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1017
+msgid "Subtitle Animation Effect"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1029
+#: mascot-framework/redux-framework/config.php:2718
+#: mascot-framework/redux-framework/config.php:5471
+msgid "Title Tag"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1043
+msgid "Title Color"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1048
+#: mascot-framework/redux-framework/config.php:2767
+msgid "Subtitle Tag"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1062
+msgid "Subtitle Color"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1091
+#: mascot-framework/redux-framework/config.php:1181
+msgid "Page Layout"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1096
+#: mascot-framework/redux-framework/config.php:1184
+msgid "Boxed"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1097
+#: mascot-framework/redux-framework/config.php:1185
+msgid "Stretched"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1104
+msgid "Content Width Setting"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1107
+#: mascot-framework/redux-framework/config.php:1194
+msgid "Content Width"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1109
+msgid "Select content width. You can use any width by using custom CSS."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1113
+#: mascot-framework/redux-framework/config.php:1197
+msgid "970px"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1114
+#: mascot-framework/redux-framework/config.php:1198
+msgid "1170px (Bootstrap Default)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1115
+msgid "1230px (Wide)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1116
+msgid "1300px (Wider)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1117
+msgid "1340px (Wider)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1118
+msgid "1440px (Wider)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1119
+msgid "1500px (Wider)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1120
+msgid "1600px (Wider)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1121
+#: mascot-framework/redux-framework/config.php:1206
+msgid "Fullwidth 100%"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1125
+msgid "Background Solid Color(For Stretched Mode)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1133
+#: mascot-framework/redux-framework/config.php:1224
+msgid "Boxed Layout Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1137
+msgid "Padding Top(px)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1139
+#: mascot-framework/core/blocks/page/page-metabox.php:1148
+msgid ""
+"Please put only integer value. Because the unit 'px' will be automatically "
+"added at the end of the value."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1146
+msgid "Padding Bottom(px)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1155
+#: mascot-framework/redux-framework/config.php:1254
+msgid "Container Shadow?"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1157
+#: mascot-framework/redux-framework/config.php:1255
+msgid "Add shadow around the container."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1169
+#: mascot-framework/redux-framework/config.php:1263
+msgid "Background Type"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1171
+#: mascot-framework/redux-framework/config.php:1264
+msgid "You can use patterns, image or solid color as a background."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1175
+#: mascot-framework/redux-framework/config.php:1266
+msgid "Solid Color"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1176
+#: mascot-framework/redux-framework/config.php:1267
+msgid "Patterns from Theme Library"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1177
+#: mascot-framework/redux-framework/config.php:1268
+msgid "Upload Own Image"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1190
+msgid "Background Pattern from Theme Library"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1232
+msgid "Dark Mode Settings"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1235
+msgid "Enable Dark Layout Mode"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1238
+msgid "Check this box to enable dark layout mode."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1241
+msgid "Custom Dark Background Color"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1244
+msgid ""
+"You can choose custom Background Color. Otherwise it will come from style "
+"css file."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1270
+#: mascot-framework/redux-framework/config.php:2885
+msgid "Footer Visibility"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1273
+msgid "Show or hide footer only for this page."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1281
+msgid "Choose Footer (Built with Elementor)"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1293
+msgid "Select a Footer"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1302
+msgid "Fixed Footer Bottom Effect"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1305
+msgid ""
+"Enabling this option will make Footer gradually appear on scroll. This is "
+"popular for OnePage Websites."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1339
+msgid "Slider Type"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1342
+msgid "Select the type of slider you want to display."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1344
+msgid "No Slider"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1345
+msgid "Slider Revolution"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1346
+msgid "Layer Slider"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1351
+msgid "Choose Revolution Slider"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1354
+#: mascot-framework/core/blocks/page/page-metabox.php:1362
+msgid "Select the name(alias) of the revolution slider you want to display."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1359
+msgid "Choose Layer Slider"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1367
+msgid "Slider Position"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1370
+msgid ""
+"Choose position of the slider you want to display. You can put it below or "
+"above the header."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1373
+msgid "Below Header"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1374
+msgid "Above Header"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1406
+msgid "Hide Featured Image"
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1409
+#: mascot-framework/redux-framework/config.php:3159
+#: mascot-framework/redux-framework/config.php:3288
+msgid ""
+"Enable/Disabling this option will show/hide Featured Image in blog page."
+msgstr ""
+
+#: mascot-framework/core/blocks/page/page-metabox.php:1412
+#: mascot-framework/redux-framework/config.php:3513
+#: mascot-framework/redux-framework/config.php:5164
+msgid "Show Comments"
+msgstr ""
+
+#: mascot-framework/core/blocks/page-preloader/tpl/gif-preloader/preloader-gif.php:1
+msgid "Page Preloader"
+msgstr ""
+
+#: mascot-framework/core/blocks/page-title/page-title-functions.php:347
+msgid " Tag"
+msgstr ""
+
+#: mascot-framework/core/blocks/page-title/page-title-functions.php:359
+msgid "Author:"
+msgstr ""
+
+#: mascot-framework/core/blocks/page-title/page-title-functions.php:383
+msgid "Search results for: "
+msgstr ""
+
+#: mascot-framework/core/blocks/page-title/page-title-functions.php:394
+msgid "404 - Page not found"
+msgstr ""
+
+#: mascot-framework/core/blocks/page-title/page-title-functions.php:400
+#: mascot-framework/redux-framework/config.php:3769
+msgid "Shop"
+msgstr ""
+
+#: mascot-framework/core/blocks/page-title/tpl/parts/page-title-title.php:9
+msgid "Lodges"
+msgstr ""
+
+#: mascot-framework/core/blocks/search/tpl/search-page-parts.php:12
+msgid "New Search"
+msgstr ""
+
+#: mascot-framework/core/blocks/search/tpl/search-page-parts.php:13
+msgid "Not happy with the results? Type your search again"
+msgstr ""
+
+#: mascot-framework/core/blocks/search/tpl/search-page-parts.php:72
+msgid "Sorry, no results were found for this query"
+msgstr ""
+
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:198
+msgid "Select Products Per Page"
+msgstr ""
+
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:203
+msgid " Products Per Page"
+msgstr ""
+
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:288
+msgid "Shop Sidebar"
+msgstr ""
+
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:325
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:712
+msgid "Cart"
+msgstr ""
+
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:811
+msgid "Ends in: "
+msgstr ""
+
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:815
+msgid "d"
+msgstr ""
+
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:819
+msgid "h"
+msgstr ""
+
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:823
+msgid "m"
+msgstr ""
+
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:827
+msgid "s"
+msgstr ""
+
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:856
+msgid "Days"
+msgstr ""
+
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:860
+msgid "Hours"
+msgstr ""
+
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:864
+msgid "Mins"
+msgstr ""
+
+#: mascot-framework/core/woocommerce/woocommerce-functions.php:868
+msgid "Secs"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:33
+msgid "Enable Mega Menu (only for main menu)"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:38
+msgid "Mega Menu Container Width"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:40
+msgid "Fullwidth - Full Window"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:41
+msgid "Fullwidth"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:42
+msgid "Three Quarter Width"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:43
+msgid "Half Width"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:44
+msgid "Quarter Width"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:50
+msgid "Mega Menu Dropdown Position"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:60
+msgid "Mega Menu Column Width in Grid system"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:62
+msgid "Auto"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:80
+msgid "Mega Menu Elementor (Optional)"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:93
+msgid "-- Select Megamenu --"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:104
+msgid "No mega menu found. Please create one first"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:118
+msgid "Mega Menu Widget Area (Optional)"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:120
+msgid "Select Widget Area"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:132
+msgid "Insert Image"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:132
+msgid "Insert"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:132
+msgid "Add Media"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:132
+msgid "Set BG image"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:138
+msgid "Remove Image"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:241
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:245
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:262
+msgid "sub item"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:280
+msgid "Move up"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:297
+msgid "Move down"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:317
+msgid "Edit menu item"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:318
+#: mascot-framework/lib/class-wp-bootstrap-comment-walker.php:43
+msgid "Edit"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:329
+msgid "URL"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:336
+msgid "Navigation Label"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:342
+msgid "Title Attribute"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:349
+msgid "Open link in a new tab"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:354
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:360
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:366
+msgid "Description"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:368
+msgid ""
+"The description will be displayed in the menu if the active theme supports "
+"it."
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:378
+msgid "Show this Navigation Label as a Bold Title"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:384
+msgid "Show it's dropdown items to left (default right)"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:389
+msgid "Subtitle"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:396
+msgid "Icon"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:400
+msgid "No Icons"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:415
+msgid "Custom Badge/Tag"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:444
+msgid "Move"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:445
+msgid "Up one"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:446
+msgid "Down one"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:449
+msgid "To the top"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:457
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:476
+msgid "Remove"
+msgstr ""
+
+#: mascot-framework/custom-nav-walker/edit_custom_walker.php:494
+msgid "Cancel"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:270
+msgid "Browse:"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:271
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:272
+msgid "Home"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:273
+msgid "404 Not Found"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:274
+msgid "Archives"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:276
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:278
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:280
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:282
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:284
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:753
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:770
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:787
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:803
+#: mascot-framework/lib/breadcrumbs.php:832
+#: mascot-framework/lib/breadcrumbs.php:859
+#: mascot-framework/lib/breadcrumbs.php:886
+#: mascot-framework/lib/breadcrumbs.php:1226
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:804
+#: mascot-framework/lib/breadcrumbs.php:860
+#: mascot-framework/lib/breadcrumbs.php:1230
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:805
+#: mascot-framework/lib/breadcrumbs.php:1234
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: mascot-framework/lib/breadcrumbs.php:833
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: mascot-framework/lib/class-wp-bootstrap-comment-walker.php:51
+#, php-format
+msgid "Reply %s"
+msgstr ""
+
+#: mascot-framework/lib/class-wp-bootstrap-comment-walker.php:64
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: mascot-framework/lib/class-wp-bootstrap-comment-walker.php:70
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:76
+msgid "General"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:85
+msgid "Favicon"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:87
+#: mascot-framework/redux-framework/config.php:97
+#: mascot-framework/redux-framework/config.php:107
+#: mascot-framework/redux-framework/config.php:117
+#: mascot-framework/redux-framework/config.php:127
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:88
+msgid ""
+"Upload a 32px x 32px png/gif image that will represent your website favicon."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:95
+msgid "Apple Touch 144x144 Icon"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:98
+msgid ""
+"Upload a 144px x 144px png image that will be your website bookmark on "
+"retina iOS devices."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:105
+msgid "Apple Touch 114x114 Icon"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:108
+msgid ""
+"Upload a 114px x 114px png image that will be your website bookmark on "
+"retina iOS devices."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:115
+msgid "Apple Touch 72x72 Icon"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:118
+msgid ""
+"Upload a 72px x 72px Png image that will be your website bookmark on non-"
+"retina iOS devices."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:125
+msgid "Apple Touch 32x32 Icon"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:128
+msgid ""
+"Upload a 32px x 32px png image that will be your website bookmark on non-"
+"retina iOS devices."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:134
+msgid "Enable Responsive"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:135
+msgid "Enable/Disable the responsive behaviour of the theme"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:141
+msgid "Enable Back To Top"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:142
+msgid ""
+"Enable Back to Top button that appears in the bottom right corner of the "
+"screen."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:150
+msgid "Enable GSap Animation"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:158
+msgid "Enable Smooth Page Scrolling (Lenis Scroll)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:159
+msgid ""
+"Enabling this option will perform a smooth scrolling effect on every page "
+"(except on Mac and touch devices)."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:166
+msgid "Enable Animation Effect on Different Elements"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:167
+msgid "Enabling this option will enable animation effect."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:178
+#, php-format
+msgid ""
+"If you want to upload SVG logo then please install this %1$ssvg plugin%2$s"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:184
+msgid "Site Brand"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:185
+msgid "Enter the text that will be appeared as logo"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:193
+msgid "Use logo in replace of \"Site Brand\" Text?"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:194
+msgid "If you want to use logo then please enable it."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:203
+msgid "Switchable logo(Light+Dark)?"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:204
+msgid "If you want to use switchable logo then please enable it."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:216
+#: mascot-framework/redux-framework/config.php:228
+#: mascot-framework/redux-framework/config.php:264
+msgid "Upload/choose your custom logo image"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:227
+msgid "Logo (White) For Dark Background"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:240
+msgid "Upload a logo for the default mode."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:252
+msgid "Upload a logo for the sticky mode."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:284
+msgid "Margin(px) Around Logo"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:301
+msgid "Margin(px) Around Logo in Sticky Mode"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:308
+msgid "WordPress Admin Login Logo"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:309
+msgid "Change the default wordpress login logo. Dimensions should be 250x50 px"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:330
+msgid "Website Primary Theme Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:331
+msgid "Select website primary theme color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:333
+#: mascot-framework/redux-framework/config.php:341
+msgid "Predefined Theme Colors"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:334
+msgid "Custom Theme Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:342
+msgid "Choose one from these predefined theme colors"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:351
+msgid "Custom Primary Theme Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:352
+msgid "Pick a custom primary color for the theme."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:360
+msgid "Custom Secondary Theme Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:361
+msgid "Pick a custom secondary color for the theme."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:369
+msgid "Custom 3rd Theme Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:370
+msgid "Pick a custom 3rd color for the theme."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:378
+msgid "Custom 4th Theme Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:379
+msgid "Pick a custom 4th color for the theme."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:387
+msgid "Text Color 1 (for Custom Primary Theme Color)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:388
+#: mascot-framework/redux-framework/config.php:397
+#: mascot-framework/redux-framework/config.php:406
+#: mascot-framework/redux-framework/config.php:415
+msgid ""
+"Text color when we will use theme color in the background. Generally text "
+"color is white or black according to the theme color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:396
+msgid "Text Color 2 (for Custom Secondary Theme Color)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:405
+msgid "Text Color 3 (for Custom 3rd Theme Color)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:414
+msgid "Text Color 4 (for BG 4th Theme Color)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:423
+msgid "File Name to Save This Color Set (Optional)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:424
+msgid ""
+"If you want to save this color set as a css file then give a name of the "
+"file. File name must starts with \"theme-color-\". Same name will override "
+"exising one. Leave empty for not to save it as a css file."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:435
+msgid "Attach Premade CSS File to get extra styling throughout the site."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:441
+msgid "Attach Premade CSS File into the header"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:442
+msgid "These files are located in assets/css/sites folder of this theme."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:458
+msgid "Enable Dark Mode"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:459
+msgid "Enable/Disable the Dark Mode of the theme"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:477
+#: mascot-framework/redux-framework/config.php:486
+msgid "Predefined Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:487
+msgid "Choose one from these Predefined Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:496
+msgid "Body Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:505
+msgid "Primary Body Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:506
+msgid "Specify the body font properties."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:527
+msgid "Primary Link Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:528
+msgid "Specify link color throughout the body."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:537
+#: mascot-framework/redux-framework/config.php:546
+msgid "Section Title Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:547
+msgid "Specify the Section Title font properties."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:568
+msgid "Section Sub-Title Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:569
+msgid "Specify the Section Sub-Title font properties."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:593
+msgid "Headings Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:603
+msgid "Common Heading H1 to h6"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:604
+msgid "Define styles for heading H1, H2, H3, H4, H5, H6."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:610
+msgid "Common Heading(H1 to h6) Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:636
+msgid "Heading H1"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:637
+msgid "Define styles for heading H1."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:643
+msgid "Heading H1 Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:676
+#: mascot-framework/redux-framework/config.php:731
+#: mascot-framework/redux-framework/config.php:786
+#: mascot-framework/redux-framework/config.php:841
+#: mascot-framework/redux-framework/config.php:896
+#: mascot-framework/redux-framework/config.php:951
+#: mascot-framework/redux-framework/config.php:5850
+#: mascot-framework/redux-framework/config.php:5916
+msgid "Margin Top & Bottom"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:691
+msgid "Heading H2"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:692
+msgid "Define styles for heading H2."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:698
+msgid "Heading H2 Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:746
+msgid "Heading H3"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:747
+msgid "Define styles for heading H3."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:753
+msgid "Heading H3 Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:801
+msgid "Heading H4"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:802
+msgid "Define styles for heading H4."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:808
+msgid "Heading H4 Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:856
+msgid "Heading H5"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:857
+msgid "Define styles for heading H5."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:863
+msgid "Heading H5 Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:911
+msgid "Heading H6"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:912
+msgid "Define styles for heading H6."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:918
+msgid "Heading H6 Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:968
+msgid "Button Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:977
+msgid "Typography - Button Default"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1010
+msgid "Padding - Button Default"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1015
+msgid "Typography - Button Large"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1048
+msgid "Padding - Button Large"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1053
+msgid "Typography - Button Small"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1086
+msgid "Padding - Button Small"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1091
+msgid "Typography - Button Extra Small"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1124
+msgid "Padding - Button Extra Small"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1132
+msgid "Post/Page Content Link Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1141
+msgid "Link Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1163
+msgid "Link Hover Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1182
+msgid "Select primary page layout of your theme"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1195
+msgid "Select content width. You can use any width by using custom CSS"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1199
+msgid "Elementor Default"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1200
+msgid "1230px"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1201
+msgid "1300px"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1202
+msgid "1340px"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1203
+msgid "1440px"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1204
+msgid "1500px"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1205
+msgid "1600px"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1213
+msgid "Background Solid Color(Stretched Mode)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1214
+msgid "Pick a custom color for background."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1225
+msgid "Define styles for Boxed Layout."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1242
+#: mascot-framework/redux-framework/config.php:2359
+msgid "Padding Top & Bottom(px)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1243
+msgid "Top and bottom padding in px for boxed layout."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1244
+msgid ""
+"Controls the top and bottom padding of the boxed layout. Ex: 40px, 40px. "
+"Please put only integer value. Because the unit 'px' will be automatically "
+"added to the end of the value."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1275
+msgid "Background Solid Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1276
+msgid "Pick a custom color for background (default: #444)."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1284
+msgid "Choose Patterns from Theme Library"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1285
+msgid "Select a patterns by clicking on it."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1295
+msgid "Body background image."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1330
+msgid "Show or hide header globally"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1341
+msgid "Elementor Headers"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1347
+msgid "Choose Header (Built with Elementor)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1348
+#: mascot-framework/redux-framework/config.php:1360
+#, php-format
+msgid "You can create your own Header from %s"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1359
+msgid "Header - Floating/Transparent (Built with Elementor)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1371
+msgid "Header - Sticky (Built with Elementor)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1372
+#, php-format
+msgid ""
+"It will be shown when you scroll down. You can create your own Header from %s"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1383
+msgid "Header - Mobile/Tab (Built with Elementor)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1384
+#, php-format
+msgid ""
+"It will be visible on Tab & Mobile devices only. You can create your own "
+"Header from %s"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1397
+msgid "Header Mobile"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1406
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1411
+msgid "Hamburger Line Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1416
+msgid "Revealed Mobile Canvas Background Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1421
+msgid "Menu Item Indicator Arrow BG Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1426
+msgid "Menu Item Indicator Arrow Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1431
+msgid "Logo Width(px) in Mobile Memu"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1432
+msgid "Enter logo width in px."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1448
+msgid "Header Sticky"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1457
+#: mascot-framework/redux-framework/config.php:1482
+msgid "Header Fixed/Sticky on Scroll?"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1465
+#: mascot-framework/redux-framework/config.php:1490
+msgid "Header Always Visible on Scroll?"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1476
+msgid "Header Fixed/Sticky For Mobile"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1499
+msgid "Maximum Logo Width(px) in Sticky Mode"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1500
+msgid "Enter maximum logo width in px in sticky header mode."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1524
+msgid "Important!"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1525
+#, php-format
+msgid ""
+"As you have chosen %1$sHeader Visibility%2$s to %1$sHide%2$s so there's "
+"nothing to show here!"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1536
+msgid "Show Default Header Navigation Row"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1537
+msgid ""
+"Enabling/Disabling this option will show/hide Whole Header Navigation Row "
+"section."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1610
+msgid "Header Nav Row Container"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1611
+msgid "Put Header nav content boxed or stretched fullwidth."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1670
+msgid "Choose Header Layout Type"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1671
+msgid "Select the type of header you would like to use"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1722
+msgid "Use Theme Color in Background?"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1723
+msgid "Use theme color or custom bg color in Header Navigation Row"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1731
+msgid "Custom Background Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1732
+msgid "Pick a custom background color for Header Navigation Row."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1742
+msgid "Cart/Search/Side Push Icons"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1748
+msgid "Navigation Link and Cart/Search/Side Push Icon Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1749
+msgid "Pick a custom color for link and icons on Header Navigation Row."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1755
+msgid "Show Cart Icon"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1756
+msgid ""
+"Add Cart Icon on the right hand side of the menu. WooCommerce plugin needs "
+"to be installed."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1764
+msgid "|---Show Cart Icon in Mobile Device"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1765
+#: mascot-framework/redux-framework/config.php:1795
+#: mascot-framework/redux-framework/config.php:1825
+#: mascot-framework/redux-framework/config.php:1932
+msgid "Show/Hide icon in Mobile View"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1774
+msgid "Cart Icon"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1775
+#: mascot-framework/redux-framework/config.php:1805
+#, php-format
+msgid ""
+"You can change the search icon from here. See full list of icons from "
+"%1$shere%2$s"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1785
+msgid "Show Search Icon"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1786
+msgid "Add Search Icon on the right hand side of the menu."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1794
+msgid "|---Show Search Icon in Mobile Device"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1804
+msgid "Search Icon"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1815
+msgid "Show Side Push Panel"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1816
+msgid ""
+"Add Side Push Icon on the right hand side of the menu to Enable/Disable Side "
+"Push Panel section. You can easily add your widgets to this section from "
+"Appearance > Widgets (Side Push Panel Sidebar)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1824
+msgid "|---Show Side Push Panel Icon in Mobile Device"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1837
+#: mascot-framework/redux-framework/config.php:1872
+msgid "Custom Button"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1838
+msgid "Add Custom Button on the right hand side of the Header Navigation Row"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1845
+msgid "Add Custom Button on the right hand side of the Header Navigation Row."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1853
+msgid "Reflect This Settings in Other Pages too?"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1854
+msgid ""
+"If you enable it then this button will be shown on other header styles chose "
+"from Page Settings."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1863
+msgid "Custom Button Info"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1864
+msgid "Enter your custom button info."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1865
+msgid "Show a custom button in the Header Navigation Row."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1880
+msgid "Button Design Style"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1889
+msgid "Button Size"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1897
+msgid "Make Button Flat"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1904
+msgid "Make Button Outlined"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1911
+msgid "Make Button Round"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1918
+msgid "Open Link in"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1922
+#: mascot-framework/redux-framework/filter-social-links.php:44
+msgid "New Tab"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1923
+#: mascot-framework/redux-framework/filter-social-links.php:45
+msgid "Same Tab"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1931
+msgid "|---Show Button in Mobile Device"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1943
+msgid "Navigation Color Scheme"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1950
+msgid "Color Scheme"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1951
+msgid "Select the color scheme of main menu"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1960
+msgid "Blue"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1964
+msgid "Green"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1968
+msgid "Orange"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1972
+msgid "Pink"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1976
+msgid "Purple"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1980
+msgid "Red"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1984
+msgid "Yellow"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1995
+msgid "Primary Effect"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:1999
+msgid "Fade"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2000
+msgid "Slide"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2008
+msgid "CSS3 Animation"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2012
+#: mascot-framework/redux-framework/config.php:2511
+#: mascot-framework/redux-framework/config.php:4128
+#: mascot-framework/redux-framework/config.php:5761
+msgid "None"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2013
+msgid "Zoom In"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2014
+msgid "Zoom Out"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2015
+msgid "Drop Up"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2016
+msgid "Drop Left"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2017
+msgid "Swing"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2018
+msgid "Flip"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2019
+msgid "Roll In"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2020
+msgid "Stretch"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2030
+#: mascot-framework/redux-framework/config.php:2099
+msgid "Navigation Skin"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2031
+#: mascot-framework/redux-framework/config.php:2100
+msgid "Select the skin of main menu you would like to use"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2087
+msgid "Header Nav Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2109
+msgid "Main Nav Items Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2131
+msgid "Main Nav Items Hover/Active Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2138
+msgid "Main Nav Dropdown Items Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2160
+msgid "Dropdown Items Hover/Active Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2169
+msgid "Dropdown Menu Width(px)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2170
+msgid "Enter width of dropdown menu in px."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2184
+msgid "Main Nav Megamenu Items Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2206
+msgid "Megamenu Items Hover/Active Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2224
+msgid "Main Nav Items Padding(px) Around it"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2235
+msgid "Megamenu"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2244
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2245
+#, php-format
+msgid ""
+"Turn on to enable mega menu. After enabling mega menu, you will get a lot of "
+"options for mega menu at %1$sAppearance > Menus%2$s"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2261
+msgid "Enable/Disable Page Title Area for posts and pages."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2277
+#, php-format
+msgid ""
+"It will be shown at the top of the page under header. You can create your "
+"own one from %s"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2289
+msgid "Or Enable Default Page Title"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2296
+msgid "Enable Default Page Title"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2327
+msgid "Title Area Container"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2328
+msgid "Put Page Title content into boxed or stretched fullwidth."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2339
+msgid "Add Custom Padding Top & Bottom into Page Title Area"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2360
+msgid "Top and bottom padding in px of page title container."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2361
+msgid ""
+"Controls the top and bottom padding of page title. Ex: 80px, 80px. Please "
+"put only integer value. Because the unit 'px' will be automatically added to "
+"the end of the value."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2373
+msgid ""
+"Enable/Disable title on Page Title Area. It is possible to disable them "
+"individually using page meta settings."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2380
+msgid "Show Subtitle"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2381
+msgid ""
+"Enable/Disable Sub title on Page Title Area. It is possible to disable them "
+"individually using page meta settings."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2389
+msgid ""
+"Enable/Disable breadcrumbs on Page Title. It is possible to disable them "
+"individually using page meta settings."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2396
+msgid "Title Area Height"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2416
+msgid ""
+"Select default text color. Inverted will turn font color to black. Inverted "
+"is suitable for white background."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2418
+msgid "Default (Text White)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2419
+msgid "Inverted (Text Black)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2427
+#: mascot-framework/redux-framework/config.php:5660
+msgid "Text Alignment"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2428
+msgid "Text Alignment of Page Title"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2436
+msgid "Title Area Top Border Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2444
+msgid "Title Area Bottom Border Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2465
+#: mascot-framework/redux-framework/config.php:5721
+msgid "Choose background image or color."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2479
+msgid "Add Page Title Background Overlay"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2491
+#: mascot-framework/redux-framework/config.php:4109
+#: mascot-framework/redux-framework/config.php:5741
+msgid "Background Overlay Opacity"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2508
+#: mascot-framework/redux-framework/config.php:4125
+#: mascot-framework/redux-framework/config.php:5758
+msgid "Background Overlay Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2509
+#: mascot-framework/redux-framework/config.php:4126
+#: mascot-framework/redux-framework/config.php:5759
+msgid "Select Dark or White Overlay on background image."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2514
+#: mascot-framework/redux-framework/config.php:4131
+#: mascot-framework/redux-framework/config.php:5764
+msgid "Primary Theme Color1"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2515
+#: mascot-framework/redux-framework/config.php:4132
+#: mascot-framework/redux-framework/config.php:5765
+msgid "Primary Theme Color2"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2516
+#: mascot-framework/redux-framework/config.php:4133
+#: mascot-framework/redux-framework/config.php:5766
+msgid "Primary Theme Color3"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2517
+#: mascot-framework/redux-framework/config.php:4134
+#: mascot-framework/redux-framework/config.php:5767
+msgid "Primary Theme Color4"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2529
+msgid "Add Background Video"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2557
+msgid "Youtube Video ID"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2558
+msgid "Only put video ID not the whole URL."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2560
+msgid "Example: E5ln4uR4TwQ"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2571
+msgid "Video Poster"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2668
+msgid "Title Animation Duration"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2670
+#: mascot-framework/redux-framework/config.php:2690
+msgid ""
+"Change the animation duration. Example: 1500ms or 1.5s or 0.5s etc. Default "
+"0.5s."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2671
+#: mascot-framework/redux-framework/config.php:2691
+msgid "1.5s"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2678
+msgid "Sub Title Animation Effect"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2688
+msgid "Sub Title Animation Duration"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2711
+#: mascot-framework/redux-framework/config.php:5795
+msgid "Define text and styles for Title."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2719
+msgid "Choose title element tag"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2727
+#: mascot-framework/redux-framework/config.php:5817
+msgid "Title Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2760
+msgid "Title Margin Top & Bottom"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2768
+msgid "Choose subtitle element tag"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2776
+msgid "Sub Title Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2809
+msgid "Sub Title Margin Top & Bottom"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2816
+msgid "Breadcrumbs Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2838
+msgid "Breadcrumbs Last Child Text Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2845
+msgid "Breadcrumbs Seperator Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2852
+msgid "Breadcrumbs Link Hover/Active Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2868
+msgid "Footer"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2886
+msgid "Show or hide footer globally"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2894
+msgid "Enable Default Footer Widgets(Not Elementor)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2895
+#, php-format
+msgid "You can customize footer widgets from here %s"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2903
+msgid "Or Choose Custom Made Footer (Built with Elementor)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2904
+#, php-format
+msgid "You can create your own footer from %s"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2916
+msgid "Footer Background Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2917
+msgid "Controls the background color of Footer."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2935
+msgid "Widget Title Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2960
+#: mascot-framework/redux-framework/config.php:4080
+msgid "Show Line Bottom Under Widget Title"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2961
+#: mascot-framework/redux-framework/config.php:4081
+#: mascot-framework/redux-framework/config.php:5578
+msgid ""
+"If you enable it then a thin line will be visible below the widget title."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2968
+#: mascot-framework/redux-framework/config.php:4088
+#: mascot-framework/redux-framework/config.php:5585
+msgid "Make Line Bottom Theme Colored?"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2969
+#: mascot-framework/redux-framework/config.php:4089
+#: mascot-framework/redux-framework/config.php:5586
+msgid "To make the Line Bottom theme colored, please check it."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2978
+#: mascot-framework/redux-framework/config.php:5595
+msgid "Custom Line Bottom Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:2988
+msgid "Widget Text Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3011
+msgid "Widget Link Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3034
+msgid "Widget Link Hover/Active Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3058
+msgid "Blog Archive Page"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3066
+msgid "Default Blog Post Layout for Archive Pages"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3067
+msgid "Choose a default layout for archive pages"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3085
+#: mascot-framework/redux-framework/config.php:3233
+#: mascot-framework/redux-framework/config.php:4157
+msgid "Choose a sidebar layout for pages"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3088
+#: mascot-framework/redux-framework/config.php:3236
+#: mascot-framework/redux-framework/config.php:3602
+#: mascot-framework/redux-framework/config.php:3789
+#: mascot-framework/redux-framework/config.php:4160
+#: mascot-framework/redux-framework/config.php:4438
+#: mascot-framework/redux-framework/config.php:4609
+#: mascot-framework/redux-framework/config.php:5204
+msgid "No Sidebar"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3089
+#: mascot-framework/redux-framework/config.php:3237
+#: mascot-framework/redux-framework/config.php:4161
+#: mascot-framework/redux-framework/config.php:4439
+#: mascot-framework/redux-framework/config.php:4610
+msgid "Sidebar Both Side (1/4 + 2/4 + 1/4)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3090
+#: mascot-framework/redux-framework/config.php:3238
+#: mascot-framework/redux-framework/config.php:4162
+#: mascot-framework/redux-framework/config.php:4440
+#: mascot-framework/redux-framework/config.php:4611
+#: mascot-framework/redux-framework/config.php:5205
+msgid "Sidebar Right 1/4"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3091
+#: mascot-framework/redux-framework/config.php:3239
+#: mascot-framework/redux-framework/config.php:4163
+#: mascot-framework/redux-framework/config.php:4441
+#: mascot-framework/redux-framework/config.php:4612
+#: mascot-framework/redux-framework/config.php:5206
+msgid "Sidebar Right 1/3"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3092
+#: mascot-framework/redux-framework/config.php:3240
+#: mascot-framework/redux-framework/config.php:4164
+#: mascot-framework/redux-framework/config.php:4442
+#: mascot-framework/redux-framework/config.php:4613
+#: mascot-framework/redux-framework/config.php:5207
+msgid "Sidebar Left 1/4"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3093
+#: mascot-framework/redux-framework/config.php:3241
+#: mascot-framework/redux-framework/config.php:4165
+#: mascot-framework/redux-framework/config.php:4443
+#: mascot-framework/redux-framework/config.php:4614
+#: mascot-framework/redux-framework/config.php:5208
+msgid "Sidebar Left 1/3"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3102
+msgid "Blog Default Sidebar"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3103
+msgid "Choose default sidebar that will be displayed on blog archive pages."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3112
+msgid "Blog Sidebar 2"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3113
+msgid ""
+"Choose sidebar 2 that will be displayed on blog archive pages. Sidebar 2 "
+"will only be used if \"Sidebar Both Side\" is selected."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3123
+msgid "Blog Sidebar 2 - Position"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3124
+#: mascot-framework/redux-framework/config.php:3273
+#: mascot-framework/redux-framework/config.php:4195
+#: mascot-framework/redux-framework/config.php:4473
+#: mascot-framework/redux-framework/config.php:4646
+msgid ""
+"Controls the position of sidebar 2. In that case, default sidebar will be "
+"shown on opposite side."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3137
+#: mascot-framework/redux-framework/config.php:3223
+#: mascot-framework/redux-framework/config.php:4596
+msgid "Fullwidth?"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3138
+#: mascot-framework/redux-framework/config.php:3224
+#: mascot-framework/redux-framework/config.php:4597
+msgid "Make the page fullwidth or not."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3146
+#: mascot-framework/redux-framework/config.php:3484
+#: mascot-framework/redux-framework/config.php:5141
+msgid "Excerpt Length"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3147
+#: mascot-framework/redux-framework/config.php:3485
+#: mascot-framework/redux-framework/config.php:5142
+msgid "Number of words to display in excerpt."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3158
+#: mascot-framework/redux-framework/config.php:3287
+msgid "Show Featured Image"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3168
+#: mascot-framework/redux-framework/config.php:5461
+msgid "Featured image size in blog page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3177
+#: mascot-framework/redux-framework/config.php:3317
+msgid "Post Meta"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3178
+#: mascot-framework/redux-framework/config.php:3318
+msgid ""
+"Enable/Disabling this option will show/hide each Post Meta on your page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3182
+#: mascot-framework/redux-framework/config.php:3322
+#: mascot-framework/redux-framework/config.php:5045
+msgid "Show By Author"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3183
+#: mascot-framework/redux-framework/config.php:3323
+#: mascot-framework/redux-framework/config.php:5046
+msgid "Show Date"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3184
+#: mascot-framework/redux-framework/config.php:3324
+#: mascot-framework/redux-framework/config.php:5047
+msgid "Show Date Split"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3185
+#: mascot-framework/redux-framework/config.php:3325
+#: mascot-framework/redux-framework/config.php:5048
+msgid "Show Category"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3186
+#: mascot-framework/redux-framework/config.php:3326
+msgid "Show Comments Count"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3187
+#: mascot-framework/redux-framework/config.php:5049
+msgid "Show Tag"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3188
+#: mascot-framework/redux-framework/config.php:3327
+msgid "Show Like Button"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3204
+msgid "Show Pagination"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3205
+msgid "Enabling this option will show comments on your page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3215
+msgid "Single Post"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3251
+#: mascot-framework/redux-framework/config.php:4624
+msgid "Default Sidebar"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3252
+msgid "Choose default sidebar that will be displayed on blog single pages."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3261
+#: mascot-framework/redux-framework/config.php:4634
+msgid "Sidebar 2"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3262
+msgid ""
+"Choose sidebar 2 that will be displayed on blog single pages. Sidebar 2 will "
+"only be used if \"Sidebar Both Side\" is selected."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3272
+#: mascot-framework/redux-framework/config.php:4645
+msgid "Sidebar 2 - Position"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3296
+msgid "Featured Image Height(px)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3297
+msgid "Set height for featured image displayed on your blog single page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3308
+msgid "Enable Drop Caps"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3309
+msgid "Enable/Disabling Drop Caps for the first letter of post content."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3342
+msgid "Show Tags"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3343
+msgid "Enable/Disabling this option will show/hide tags on your page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3351
+#: mascot-framework/redux-framework/config.php:4213
+#: mascot-framework/redux-framework/config.php:5065
+msgid "Show Social Share"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3352
+#: mascot-framework/redux-framework/config.php:4214
+#: mascot-framework/redux-framework/config.php:5066
+msgid "Enable/Disabling this option will show/hide share options on your page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3363
+#: mascot-framework/redux-framework/config.php:5077
+msgid "Next/Previous Navigation Link"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3369
+#: mascot-framework/redux-framework/config.php:5083
+msgid "Show Next/Previous Single Post Navigation Link"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3370
+#: mascot-framework/redux-framework/config.php:5084
+msgid ""
+"Enable/Disabling this option will show/hide link for Next & Previous Posts."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3378
+#: mascot-framework/redux-framework/config.php:5092
+msgid "Show Navigation Link Within Same Category"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3379
+#: mascot-framework/redux-framework/config.php:5093
+msgid ""
+"Enable/Disabling this option will show/hide link to the next/previous post "
+"within the same category as the current post."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3396
+msgid "Author Info Box"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3402
+msgid "Show Author Info Box"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3403
+msgid ""
+"Enable/Disabling this option will show/hide Author Info Box on your page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3411
+msgid "Show Social Icons"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3420
+msgid "Show Author Email"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3440
+#: mascot-framework/redux-framework/config.php:5114
+msgid ""
+"Enable/Disabling this option will show/hide Related Posts List/Carousel on "
+"your page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3446
+msgid "Show Related Posts"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3455
+#: mascot-framework/redux-framework/config.php:5122
+msgid "Carousel?"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3456
+#: mascot-framework/redux-framework/config.php:5123
+msgid "Make it carousel or grid"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3465
+#: mascot-framework/redux-framework/config.php:5132
+msgid "Number of Posts"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3467
+#: mascot-framework/redux-framework/config.php:5134
+msgid "Enter number of posts to display. Default 3"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3474
+msgid "Show Excerpt"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3506
+#: mascot-framework/redux-framework/config.php:5158
+msgid "Comments"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3507
+#: mascot-framework/redux-framework/config.php:5165
+msgid "Enable/Disabling this option will show/hide Comments on your page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3531
+#: mascot-framework/redux-framework/config.php:5034
+#: mascot-framework/redux-framework/config.php:5219
+msgid "Other Settings"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3539
+msgid "Custom Blog Title & Description"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3540
+msgid "Add title and description in title section of blog page"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3548
+msgid "Blog Title Text"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3550
+msgid "News"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3556
+msgid "Blog Description Text"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3569
+msgid "Woocommerce Shop"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3579
+msgid "Shop Archive/Category Layout"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3587
+#: mascot-framework/redux-framework/config.php:3774
+#: mascot-framework/redux-framework/config.php:4575
+msgid "Page Fullwidth?"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3588
+msgid "Make the shop page fullwidth or not."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3597
+#: mascot-framework/redux-framework/config.php:3784
+msgid "Sidebar Position"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3598
+msgid "Controls the position of shop sidebar."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3610
+#: mascot-framework/redux-framework/config.php:3797
+msgid "Choose a sidebar layout for shop page"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3613
+#: mascot-framework/redux-framework/config.php:3800
+msgid "Sidebar 1/4"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3614
+#: mascot-framework/redux-framework/config.php:3801
+msgid "Sidebar 1/3"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3622
+#: mascot-framework/redux-framework/config.php:3809
+msgid "Choose Sidebar"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3623
+#: mascot-framework/redux-framework/config.php:3810
+msgid "Choose sidebar that will be displayed on shop page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3636
+msgid "Shop Catalog Layout"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3637
+#: mascot-framework/redux-framework/config.php:3823
+msgid "Select the type of layout you would like to display."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3656
+msgid "Shop Layout Mode (FitRows Or Masonry)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3657
+#: mascot-framework/redux-framework/config.php:4505
+#: mascot-framework/redux-framework/config.php:4858
+#: mascot-framework/redux-framework/config.php:4984
+#: mascot-framework/redux-framework/config.php:5412
+msgid ""
+"You can position items with different layout modes. Select a layout mode you "
+"would like to use."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3677
+msgid "Number of Products Per Row"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3678
+msgid "Select your default column structure for your shop items."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3697
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3698
+msgid ""
+"Controls the number of items to display on shop archive pages. Set to -1 to "
+"display all. Set to 0 to use the number of posts from Settings > Reading."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3709
+msgid "WooCommerce Products Per Page Dropdown"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3710
+msgid ""
+"List of options products per page to show into the select dropdown menu."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3711
+msgid "Seperated by spaces"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3717
+msgid "Shop Column Spacing (Gutter Size) px"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3718
+msgid ""
+"Controls column spacing or gutter size between items on shop archive pages."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3729
+msgid "Product Thumbnail Type"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3730
+msgid "Select your preferred style for your WooCommmerce product thumbnail."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3746
+msgid "Shop Single Product"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3754
+msgid "Enable Shop Single Page Title"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3766
+msgid "Custom Shop Single Page Title"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3767
+msgid ""
+"Enter the text that will be appeared as page title of product details page"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3775
+msgid "Make the single product page fullwidth or not."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3785
+msgid "Controls the sidebar position of shop single product page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3822
+msgid "Product Details Layout"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3848
+msgid "Product Images Column Width"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3851
+msgid "Small - 4/12"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3852
+msgid "Medium - 5/12"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3853
+msgid "Large - 6/12"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3854
+msgid "Extra Large - 8/12"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3861
+msgid "Product Images Alignment"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3873
+msgid "Enable Image Gallery Slider Feature"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3883
+msgid "Enable Image Gallery Lightbox Feature"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3892
+msgid "Enable Image Gallery Zoom Feature"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3904
+msgid "Show Product Title"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3913
+msgid "Single Product Title Tag"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3922
+msgid "Product Meta"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3931
+#: mascot-framework/redux-framework/config.php:6141
+msgid "Enable Sharing"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3943
+msgid "Related Products"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3944
+msgid ""
+"Enable/Disabling this option will show/hide Related Products List/Carousel "
+"on your page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3950
+msgid "Related Products Columns"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3951
+msgid "Set number of columns for related and upsells products only"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3970
+msgid "Related Products Count"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3971
+msgid ""
+"Number of related products shown on single product page. Enter \"0\" to "
+"disable."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3987
+msgid "WooCommerce Styling"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3995
+msgid "Product Price Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:3996
+msgid "Select your custom color for product price."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4002
+msgid "On Sale Tag Background Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4003
+msgid "Select your custom background color for on-sale tag."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4009
+msgid "Enable Floating Cart Sidebar"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4032
+msgid "Choose Pre Made Side Push Panel Area (Built with Elementor)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4033
+#, php-format
+msgid "You can create your own one from %s"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4045
+msgid "Side Push Panel Width"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4046
+msgid "Default: 380px"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4057
+msgid "Background of Side Push Panel"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4071
+msgid "Center the content of Side Push Panel area."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4110
+msgid "Overlay on background image."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4156
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4173
+msgid "Page Default Sidebar"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4174
+msgid "Choose default sidebar that will be displayed on pages."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4183
+msgid "Page Sidebar 2"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4184
+msgid ""
+"Choose sidebar 2 that will be displayed on pages. Sidebar 2 will only be "
+"used if \"Sidebar Both Side\" is selected."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4194
+msgid "Page Sidebar 2 - Position"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4206
+msgid "Show Page Comments"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4207
+msgid ""
+"Enable/Disable comments on all pages except the post pages. It is possible "
+"to disable them individually using page meta settings."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4226
+msgid "Preloader"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4234
+msgid "Page Preloader Settings"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4235
+msgid "Enable/Disable Page Preloader."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4241
+msgid "Enable Page Preloader"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4242
+msgid "Enabling this option will show page preloader."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4248
+msgid "Preloading Text"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4249
+msgid "Enter the text that will be appeared as Preloader Text."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4251
+#: mascot-framework/redux-framework/config.php:4348
+msgid "Loading"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4257
+msgid "Preloading Text Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4280
+msgid "Preloading Text Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4288
+msgid "Page Preloader Image Type"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4289
+msgid "Select preloader type"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4291
+msgid "Upload Gif"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4292
+msgid "CSS Preloader"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4293
+msgid "Predefined Gif Preloader"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4302
+msgid "Upload Gif Preloading Image"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4303
+msgid "Upload/choose preloader image"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4312
+msgid "Maximum Image Width(px)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4313
+msgid "Enter maximum image width in px."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4325
+msgid "Animate Preloading Image"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4333
+msgid "Choose CSS Preloader"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4334
+msgid "Choose Predefined CSS Preloader."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4337
+msgid "Bubbling"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4338
+msgid "Circle Loading"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4339
+msgid "Coffee"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4340
+msgid "Battery"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4341
+msgid "Dot Circle Rotator"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4342
+msgid "Dot Loading"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4343
+msgid "Double Torus"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4344
+msgid "Equalizer"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4345
+msgid "Floating Circles"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4346
+msgid "Fountain Text"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4347
+msgid "Jackhammer"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4349
+msgid "Orbit Loading"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4350
+msgid "Speeding Wheel"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4351
+msgid "Square Swapping"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4352
+msgid "Tube Tunnel"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4353
+msgid "Whirlpool"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4361
+msgid "Choose Gif Icon Preloader"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4362
+msgid "Choose Predefined Gif Icon Preloader."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4382
+msgid "Preloader Whole Background Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4389
+msgid "Show Disable Preloader Button"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4390
+msgid "Show Disable Preloader Button at the corner of the screen."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4398
+msgid "Disable Preloader Button Text"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4399
+msgid "Enter the text that will be appeared into the Disable Preloader Button."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4401
+msgid "Disable Preloader"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4416
+#: mascot-framework/redux-framework/config.php:6270
+msgid "Portfolio"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4426
+msgid "Portfolio Archive Layout"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4434
+msgid "Portfolio Sidebar Layout"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4435
+msgid "Choose a sidebar layout for portfolio pages"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4451
+msgid "Portfolio Default Sidebar"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4452
+msgid "Choose default sidebar that will be displayed on portfolio pages."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4461
+msgid "Portfolio Sidebar 2"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4462
+msgid ""
+"Choose sidebar 2 that will be displayed on portfolio pages. Sidebar 2 will "
+"only be used if \"Sidebar Both Side\" is selected."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4472
+msgid "Portfolio Sidebar 2 - Position"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4488
+msgid "Portfolio Design Style"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4489
+msgid "Select the type of portfolio you would like to display."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4504
+msgid "Portfolio Layout Mode (FitRows Or Masonry)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4525
+msgid "Number of Portfolio Items Per Row"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4526
+msgid "Select your default column structure for your portfolio items."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4545
+msgid "Number of Portfolio Items Per Page"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4546
+msgid ""
+"Controls the number of items to display on portfolio archive pages. Set to "
+"-1 to display all. Set to 0 to use the number of posts from Settings > "
+"Reading."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4557
+msgid "Portfolio Column Spacing (Gutter Size) px"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4558
+msgid ""
+"Controls column spacing or gutter size between items on portfolio archive "
+"pages."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4567
+msgid "Featured image size in Portfolio Archive page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4576
+msgid "Make the portfolio page fullwidth or not."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4588
+msgid "Portfolio Single"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4606
+msgid "Choose a sidebar layout for portfolio details pages"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4625
+msgid ""
+"Choose default sidebar that will be displayed on portfolio single pages."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4635
+msgid ""
+"Choose sidebar 2 that will be displayed on portfolio single pages. Sidebar 2 "
+"will only be used if \"Sidebar Both Side\" is selected."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4659
+msgid "Portfolio Details Type"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4660
+msgid "Select the type of portfolio details you would like to display."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4665
+msgid "Small Image"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4669
+msgid "Small Image Slider"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4673
+msgid "Small Image Gallery"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4677
+msgid "Big Image"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4681
+msgid "Big Image Slider"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4685
+msgid "Big Image Gallery"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4697
+msgid "Small Image Settings"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4705
+#: mascot-framework/redux-framework/config.php:4760
+#: mascot-framework/redux-framework/config.php:4815
+#: mascot-framework/redux-framework/config.php:4915
+#: mascot-framework/redux-framework/config.php:4942
+#: mascot-framework/redux-framework/config.php:4969
+msgid "Item Description Placement"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4706
+#: mascot-framework/redux-framework/config.php:4761
+#: mascot-framework/redux-framework/config.php:4816
+#: mascot-framework/redux-framework/config.php:4916
+#: mascot-framework/redux-framework/config.php:4943
+#: mascot-framework/redux-framework/config.php:4970
+msgid "Choose placement of item description."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4708
+#: mascot-framework/redux-framework/config.php:4763
+#: mascot-framework/redux-framework/config.php:4818
+msgid "Left Side"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4709
+#: mascot-framework/redux-framework/config.php:4764
+#: mascot-framework/redux-framework/config.php:4819
+msgid "Right Side"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4720
+#: mascot-framework/redux-framework/config.php:4775
+#: mascot-framework/redux-framework/config.php:4830
+msgid "Item Description Width"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4721
+#: mascot-framework/redux-framework/config.php:4776
+#: mascot-framework/redux-framework/config.php:4831
+msgid "Choose width of item description."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4723
+#: mascot-framework/redux-framework/config.php:4778
+#: mascot-framework/redux-framework/config.php:4833
+msgid "Half (1/2)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4724
+#: mascot-framework/redux-framework/config.php:4779
+#: mascot-framework/redux-framework/config.php:4834
+msgid "One Third (1/3)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4725
+#: mascot-framework/redux-framework/config.php:4780
+#: mascot-framework/redux-framework/config.php:4835
+msgid "One Fourth (1/4)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4735
+#: mascot-framework/redux-framework/config.php:4790
+#: mascot-framework/redux-framework/config.php:4845
+msgid "Make Description Sticky"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4736
+#: mascot-framework/redux-framework/config.php:4791
+#: mascot-framework/redux-framework/config.php:4846
+msgid "Make description container sticky when scrolling down the page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4752
+msgid "Small Image Slider Settings"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4807
+msgid "Small Image Gallery Settings"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4857
+#: mascot-framework/redux-framework/config.php:4983
+msgid "Gallery Layout Mode (FitRows Or Masonry)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4879
+#: mascot-framework/redux-framework/config.php:5005
+msgid "Number of Images Per Row"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4880
+#: mascot-framework/redux-framework/config.php:5006
+msgid "Select your default column structure for your gallery items."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4907
+msgid "Big Image Settings"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4918
+#: mascot-framework/redux-framework/config.php:4945
+#: mascot-framework/redux-framework/config.php:4972
+msgid "Over the Images"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4919
+#: mascot-framework/redux-framework/config.php:4946
+#: mascot-framework/redux-framework/config.php:4973
+msgid "Under the Images"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4934
+msgid "Big Image Slider Settings"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:4961
+msgid "Big Image Gallery Settings"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5040
+msgid "Portfolio Meta"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5041
+msgid ""
+"Enable/Disabling this option will show/hide each Portfolio Meta on your "
+"Portfolio Details Page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5050
+msgid "Show Checklist Custom Fields"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5113
+msgid "Show Related Portfolio Items"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5180
+msgid "Give - Donation"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5188
+msgid "Give Form Details Page Style"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5191
+msgid "Form Custom Style1"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5192
+msgid "Form Custom Style2"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5200
+msgid "Give Donation Page Sidebar Layout"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5201
+msgid "Choose a sidebar layout for Donation Page"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5225
+msgid "Show Donation Creation Date"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5226
+msgid "Toggle the campaign creation date on or off."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5232
+msgid "Show Campaign Creator"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5233
+msgid "Toggle the campaign donation count on or off."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5239
+msgid "Show Donation Categories"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5240
+msgid "Toggle the campaign categories on or off."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5246
+msgid "Show Donation Tags"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5247
+msgid "Toggle the campaign tags on or off."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5253
+msgid "Show Donation Progress Bar"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5254
+msgid "Toggle the campaign campaign progress bar on or off."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5260
+msgid "Show Donation Stats"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5261
+msgid "Toggle the campaign raised goal on or off."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5275
+msgid "Custom Post Types"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5286
+msgid "CPT - Portfolio"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5294
+msgid "Portfolio Post Type"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5295
+msgid "Toggle the portfolio custom post type on or off."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5301
+msgid "Portfolio Label"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5302
+#: mascot-framework/redux-framework/config.php:5365
+msgid "Rename the Custom Post Type. "
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5309
+msgid "Portfolio Admin Dashboard Icon"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5319
+msgid "Portfolio Slug"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5320
+msgid "Specify a custom slug for Portfolio Post Type. "
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5321
+#: mascot-framework/redux-framework/config.php:5330
+#: mascot-framework/redux-framework/config.php:5339
+#: mascot-framework/redux-framework/config.php:5384
+#: mascot-framework/redux-framework/config.php:5393
+#, php-format
+msgid ""
+"%1$sNOTE: When you change this setting you need to flush rewrite rules.%2$s "
+"%3$s%4$sTo do so, goto Settings > Permalinks and simply click on \"Save "
+"Changes\" button.%2$s"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5328
+msgid "Portfolio Category Slug"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5329
+msgid "Specify a custom slug for the Category of Portfolio Post Type. "
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5337
+msgid "Portfolio Tag Slug"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5338
+msgid "Specify a custom slug for the Tag of Portfolio Post Type. "
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5349
+msgid "CPT - Projects"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5357
+msgid "Projects Post Type"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5358
+msgid "Toggle the projects custom post type on or off."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5364
+msgid "Projects Label"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5372
+msgid "Projects Admin Dashboard Icon"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5382
+msgid "Projects Slug"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5383
+msgid "Specify a custom slug for Projects Post Type. "
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5391
+msgid "Projects Category Slug"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5392
+msgid "Specify a custom slug for the Category of Projects Post Type. "
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5405
+msgid "Project Archive Page Settings"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5411
+msgid "Project Layout Mode (FitRows Or Masonry)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5430
+msgid "Number of Projects Per Row"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5431
+msgid "Select your default column structure for your Projects."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5450
+msgid "Column Spacing (Gutter Size) px"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5484
+msgid "Sidebar Widgets"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5503
+msgid "Sidebar Padding(px)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5504
+msgid ""
+"Controls the sidebar padding. Please put only integer value. Because the "
+"unit 'px' will be automatically added to the end of the value."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5509
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5510
+msgid "Controls the background color of sidebar."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5516
+msgid "Sidebar Text Alignment"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5531
+msgid "Sidebar Widget Title"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5548
+msgid "Widget Title Padding(px)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5549
+msgid ""
+"Controls the sidebar widget title padding. Please put only integer value. "
+"Because the unit 'px' will be automatically added to the end of the value."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5555
+#: mascot-framework/redux-framework/config.php:5562
+msgid "Controls the background color of sidebar widget title box"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5561
+msgid "Text Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5568
+msgid "Font Size(px)"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5569
+msgid ""
+"Please put only integer value. Because the unit 'px' will be automatically "
+"added to the end of the value."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5577
+msgid "Show Line Bottom"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5614
+msgid "404 Page"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5616
+msgid "Title, content and background settings for 404 Error Page"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5622
+msgid "Choose Layout"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5623
+msgid "Choose one among different layouts."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5641
+msgid "Show Header"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5650
+msgid "Show Footer"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5661
+msgid "Text Alignment of this page"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5669
+msgid "Show Back to Home Button"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5678
+msgid "Back to Home Button Label"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5680
+msgid "Default: \"Back to Home\""
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5689
+msgid "Show Social Links"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5704
+#: mascot-framework/redux-framework/config.php:5711
+msgid "Custom Background"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5705
+msgid "Define background for 404 page."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5720
+msgid "Background"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5729
+msgid "Add Background Overlay"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5742
+msgid "Overlay on background image on footer."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5794
+msgid "Title"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5801
+msgid "Title Text"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5802
+msgid "Set page title to show"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5809
+msgid "Sub Title Text"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5810
+msgid "Set page sub title to show"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5868
+msgid "Content"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5869
+msgid "Define text and styles for Content."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5875
+msgid "Content Text"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5876
+msgid "Enter the content for 404 page which will be showed below title."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5883
+msgid "Content Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5933
+#: mascot-framework/redux-framework/config.php:5953
+msgid "Helpful Links"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5934
+msgid "Define text and styles for helpful links."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5940
+msgid "Show Helpful Links"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5942
+#, php-format
+msgid ""
+"Please create a new menu from %1$sAppearance > Menus%2$s and set Theme "
+"Location %1$s\"Page 404 Helpful Links\"%2$s"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5950
+#: mascot-framework/redux-framework/config.php:6037
+msgid "Heading Text"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5951
+#: mascot-framework/redux-framework/config.php:6038
+msgid "Set heading text to show"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5961
+#: mascot-framework/redux-framework/config.php:6059
+msgid "Heading Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:5986
+msgid "Links Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6021
+msgid "Search Box"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6022
+msgid "Define text and styles for search box."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6028
+msgid "Show Search Box"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6040
+msgid "Search Website"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6048
+msgid "Paragraph Text"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6049
+msgid "Set paragraph text to show"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6051
+msgid ""
+"Please use the search box to find what you are looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6084
+msgid "Paragraph Typography"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6122
+msgid "Social Links"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6124
+msgid ""
+"This is your official social links. Set the order of social links to be "
+"appeared in the header/footer section."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6133
+msgid "Sharing Settings"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6135
+msgid ""
+"Enable/Disable social sharing buttons for posts, pages and portfolio single "
+"pages"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6151
+msgid "Sharing Heading"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6152
+msgid "Your custom text for the social sharing heading."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6154
+msgid "Share On:"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6160
+msgid "Sharing Icon Type"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6176
+msgid "Sharing Links - Background Color"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6179
+msgid "Gray"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6192
+msgid "Sharing Icons Style"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6195
+msgid "Rounded"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6197
+msgid "Circled"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6205
+msgid "Sharing Icons Size"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6221
+msgid "Icons Animation Effect"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6224
+msgid "Roll Over"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6226
+msgid "Rotate"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6234
+msgid "Make Sharing Icon Area Bordered?"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6245
+msgid "Make Sharing Icons Theme Colored?"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6246
+msgid "To make the sharing icons theme colored, please check it."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6262
+msgid "Show Social Share On"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6267
+msgid "Posts"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6268
+msgid "Pages"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6269
+msgid "Tribe Events"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6284
+msgid "Seleted Social Networks"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6309
+msgid "Sharing Icon Tooltip"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6318
+msgid "Tooltip Text Directions"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6333
+msgid "Tooltip text for Twitter"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6336
+msgid "Share on Twitter"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6341
+msgid "Tooltip text for Facebook"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6344
+msgid "Share on Facebook"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6349
+msgid "Tooltip text for LinkedIn"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6352
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6357
+msgid "Tooltip text for Tumblr"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6360
+msgid "Share on Tumblr"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6365
+msgid "Tooltip text for Email"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6368
+msgid "Share on Email"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6373
+msgid "Tooltip text for VKontakte"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6376
+msgid "Share on VKontakte"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6381
+msgid "Tooltip text for Pinterest"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6384
+msgid "Share on Pinterest"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6389
+msgid "Tooltip text for Reddit"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6392
+msgid "Share on Reddit"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6397
+msgid "Tooltip text for Print"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6400
+msgid "Print This Page"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6415
+msgid "API Settings"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6417
+msgid "Fill the following fields if you want to use these features"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6423
+msgid "Google Maps API Settings"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6424
+msgid "Fill the following field if you want to use Google Maps"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6430
+msgid "Google Maps API Key"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6439
+msgid "Twitter API Settings"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6440
+#, php-format
+msgid ""
+"Fill the following fields if you want to use Twitter Feed Widget. You can "
+"collect those keys by creating your own Twitter API from here %s%s"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6447
+msgid "Twitter API Key"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6454
+msgid "Twitter API Secret"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6462
+msgid "Twitter Access Token"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6469
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6480
+msgid "Custom HTML/JS Codes"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6488
+msgid "Custom HTML/JS Code - in Header before &lt;/head&gt; tag"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6489
+msgid ""
+"If you have any custom HTML or JS Code you would like to add in the header "
+"before &lt;/head&gt; tag of the site then please enter it here. Only accepts "
+"javascript code wrapped with &lt;script&gt; tags and valid HTML markup."
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6498
+msgid "Custom HTML/JS Code - in Footer before &lt;/body&gt; tag"
+msgstr ""
+
+#: mascot-framework/redux-framework/config.php:6499
+msgid ""
+"If you have any custom HTML or JS Code you would like to add in the footer "
+"before &lt;/body&gt; tag of the site then please enter it here. Only accepts "
+"javascript code wrapped with &lt;script&gt; tags and valid HTML markup."
+msgstr ""
+
+#: mascot-framework/redux-framework/filter-social-links.php:29
+msgid "Social Links Ordering"
+msgstr ""
+
+#: mascot-framework/redux-framework/filter-social-links.php:40
+msgid "Open links in"
+msgstr ""
+
+#: mascot-framework/redux-framework/filter-social-links.php:54
+msgid "Social URLs"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:393
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:920
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2626
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:394
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:395
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:1027
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:1214
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2366
+#: woocommerce/global/form-login.php:34 woocommerce/global/form-login.php:38
+msgid "Required"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3602
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: mascot-framework/tgm/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: mascot-framework/tgm/demo-content-import.php:170
+msgid ""
+"After you import this demo, you will have to import the slider separately. "
+"You will find slider in \"import-sliders\" folder in your downloaded package."
+msgstr ""
+
+#: mascot-framework/tgm/demo-content-import.php:239
+msgid "One Click Demo Import - ThemeMascot"
+msgstr ""
+
+#: mascot-framework/tgm/demo-content-import.php:240
+msgid "Import Demo Data"
+msgstr ""
+
+#: mascot-framework/tgm/demo-content-import.php:324
+msgid "Error while importing rev sliders"
+msgstr ""
+
+#: mascot-framework/tgm/demo-content-import.php:330
+msgid "Rev sliders imported successfully"
+msgstr ""
+
+#: mascot-framework/tgm/demo-content-import.php:332
+msgid "RevSliderSliderImport instance is empty"
+msgstr ""
+
+#: mascot-framework/tgm/demo-content-import.php:336
+msgid "RevSliderSliderImport class doesn't exist"
+msgstr ""
+
+#: mascot-framework/tgm/demo-content-import.php:340
+msgid "Files don't exist"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:132
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:136
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:137
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:138
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:139
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:140
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:141
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:142
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:146
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:153
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/global/form-login.php:34
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:38
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:47
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:51
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:54
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:45
+msgid "Product quantity"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:31
+msgid "Product Pagination"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:25
+msgid "Account pages"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:36
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:38
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:33
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:26
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/grouped.php:71
+#, php-format
+msgid "Buy one of %1$s on sale for %2$s, original price was %3$s"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/grouped.php:79
+#, php-format
+msgid "Buy one of %1$s for %2$s"
+msgstr ""
